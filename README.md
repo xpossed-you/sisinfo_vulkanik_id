@@ -75,13 +75,13 @@ sisinfo_vulkanik_id/
 
 ## Screenshots
 Tampilan Homepage
-![App Screenshot](https://raw.githubusercontent.com/xpossed-you/sisinfo_vulkanik_id/refs/heads/master/screenshot/Screenshot%202025-05-16%20185032.png?token=GHSAT0AAAAAADA3PEW2VYCTCAHCFIL7BUCE2BHDRZA)
+![App Screenshot](screenshot/home_page.png)
 
 Tampilan Daftar Gunung Api
-![App Screenshot](https://raw.githubusercontent.com/xpossed-you/sisinfo_vulkanik_id/refs/heads/master/screenshot/Screenshot%202025-05-16%20184632.png?token=GHSAT0AAAAAADA3PEW3L2HLXVD75LFA7FOE2BHDSPQ)
+![App Screenshot](screenshot/daftar_gunung.png)
 
 Tampilan Login
-![App Screenshot](https://raw.githubusercontent.com/xpossed-you/sisinfo_vulkanik_id/refs/heads/master/screenshot/Screenshot%202025-05-16%20184641.png?token=GHSAT0AAAAAADA3PEW32S4KH7VN6I3YOWRY2BHDTGQ)
+![App Screenshot](screenshot/login.png)
 
 Tampilan Dashboard
-![App Screenshot](https://raw.githubusercontent.com/xpossed-you/sisinfo_vulkanik_id/refs/heads/master/screenshot/Screenshot%202025-05-16%20185059.png?token=GHSAT0AAAAAADA3PEW3OPYJ3YJHKN32HH3A2BHDTUQ)
+![App Screenshot](screenshot/dashboard.png)

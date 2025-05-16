@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/xpossed-you/sisinfo_vulkanik_id/refs/heads/master/assets/logo_aplikasi.png?token=GHSAT0AAAAAADA3PEW2L7NVJPP3G3HRUNF22BHCVXQ)
+![Logo](https://raw.githubusercontent.com/xpossed-you/sisinfo_vulkanik_id/refs/heads/master/screenshot/logo_aplikasi.png?token=GHSAT0AAAAAADA3PEW2WGWOWW6XB7TF45ZG2BHDRBQ)
 
 
 # VULKANESIA

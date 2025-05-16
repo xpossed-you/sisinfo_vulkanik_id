@@ -1,0 +1,3029 @@
+[
+    {
+        "nama_vulkan": "Agung",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01738.jpg",
+        "nmr_vulkan": "264020",
+        "erupsi_terakhir": "2019 CE",
+        "elevasi": "2,997 m / 9,833 ft",
+        "kordinat_lat": "8.343°S",
+        "kordinat_long": "115.508°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Lava cone"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "5,657",
+            "Within 10 km": "76,781",
+            "Within 30 km": "968,381",
+            "Within 100 km": "4,550,176"
+        },
+        "ringkas": "Symmetrical Agung stratovolcano, Bali's highest and most sacred mountain, towers over the eastern end of the island. The volcano, whose name means \"Paramount,\" rises above the SE rim of the Batur caldera, and the northern and southern flanks extend to the coast. The summit area extends 1.5 km E-W, with the high point on the W and a steep-walled 800-m-wide crater on the E. The Pawon cone is located low on the SE flank. Only a few eruptions dating back to the early 19th century have been recorded in historical time. The 1963-64 eruption, one of the largest in the 20th century, produced voluminous ashfall along with devastating pyroclastic flows and lahars that caused extensive damage and many fatalities."
+    },
+    {
+        "nama_vulkan": "Amasing",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11708.jpg",
+        "nmr_vulkan": "268072",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "1,006 m / 3,301 ft",
+        "kordinat_lat": "0.5249°S",
+        "kordinat_long": "127.4956°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano(es)"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "59",
+            "Within 10 km": "803",
+            "Within 30 km": "26,015",
+            "Within 100 km": "92,417"
+        },
+        "ringkas": "Bukit Amasing (Amasing Hill) is the largest and NW-most of a group of three small andesitic volcanoes of Holocene age (Yasin, 1980). They are located along a NW-SE line on central Bacan Island, west of the southern tip of Halmahera. Two smaller volcanoes, Cakasuanggi and Dua Saudara, were constructed to the SE, north of the Sibela Mountains metamorphic complex. These mountains separate the Amasing volcano group from another group of three andesitic Holocene volcanoes in SE-most Bacan Island."
+    },
+    {
+        "nama_vulkan": "Ambang",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sangihe Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-04534.jpg",
+        "nmr_vulkan": "266020",
+        "erupsi_terakhir": "2005 CE",
+        "elevasi": "1,795 m / 5,889 ft",
+        "kordinat_lat": "0.75°N",
+        "kordinat_long": "124.42°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Complex"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "9,155",
+            "Within 10 km": "46,469",
+            "Within 30 km": "319,137",
+            "Within 100 km": "1,730,602"
+        },
+        "ringkas": "The compound Ambang volcano is the westernmost of the active volcanoes on the northern arm of Sulawesi. The stratovolcano rises 750 m above lake Danau. Several craters up to 400 m in diameter and five solfatara fields are located at the summit."
+    },
+    {
+        "nama_vulkan": "Arjuno-Welirang",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-04531.jpg",
+        "nmr_vulkan": "263290",
+        "erupsi_terakhir": "1952 CE",
+        "elevasi": "3,343 m / 10,968 ft",
+        "kordinat_lat": "7.733°S",
+        "kordinat_long": "112.575°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Pyroclastic cone(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "2,584",
+            "Within 10 km": "53,983",
+            "Within 30 km": "4,143,137",
+            "Within 100 km": "25,385,433"
+        },
+        "ringkas": "The Arjuno and Welirang volcanoes anchor the SE and NW ends, respectively, of a 6-km-long line of volcanic cones and craters. The complex overlies most of the Gunung Ringgit edifice, whose summit is about 3 km NE from the main ridge. Pyroclastic cones are located on the north flank of Gunung Welirang and along an E-W line cutting across the southern side of Gunung Arjuno that extends to the lower SE flank. Fumarolic areas with sulfur deposition occur at several locations on Welirang.This volcano is located within the Bromo Tengger Semeru-Arjuno, a UNESCO Biosphere Reserve  property."
+    },
+    {
+        "nama_vulkan": "Awu",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sangihe Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-12023.jpg",
+        "nmr_vulkan": "267040",
+        "erupsi_terakhir": "2004 CE",
+        "elevasi": "1,318 m / 4,324 ft",
+        "kordinat_lat": "3.689°N",
+        "kordinat_long": "125.447°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Caldera"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "6,409",
+            "Within 10 km": "22,655",
+            "Within 30 km": "52,725",
+            "Within 100 km": "58,719"
+        },
+        "ringkas": "The massive Gunung Awu stratovolcano occupies the northern end of Great Sangihe Island, the largest of the Sangihe arc. Deep valleys that form passageways for lahars dissect the flanks of the volcano, which was constructed within a 4.5-km-wide caldera. Powerful explosive eruptions in 1711, 1812, 1856, 1892, and 1966 produced devastating pyroclastic flows and lahars that caused more than 8000 cumulative fatalities. Awu contained a summit crater lake that was 1 km wide and 172 m deep in 1922, but was largely ejected during the 1966 eruption."
+    },
+    {
+        "nama_vulkan": "Baluran",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01168.jpg",
+        "nmr_vulkan": "263351",
+        "erupsi_terakhir": "Unknown - Evidence Uncertain",
+        "elevasi": "1,247 m / 4,091 ft",
+        "kordinat_lat": "7.85°S",
+        "kordinat_long": "114.37°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "1,313",
+            "Within 10 km": "59,107",
+            "Within 30 km": "437,688",
+            "Within 100 km": "5,474,053"
+        },
+        "ringkas": "The small andesitic Baluran, dwarfed by its neighbor Ijen volcano to the SW, occupies the very NE tip of Java. Gunung Baluran contains a wide crater breached to the NE. The volcano lies within a national park and game reserve. It was considered by van Bemmelen (1949b) to be of Holocene age."
+    },
+    {
+        "nama_vulkan": "Banda Api",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Inner Banda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-00831.jpg",
+        "nmr_vulkan": "265090",
+        "erupsi_terakhir": "1988 CE",
+        "elevasi": "596 m / 1,955 ft",
+        "kordinat_lat": "4.523°S",
+        "kordinat_long": "129.881°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Caldera",
+            "Stratovolcano",
+            "Tuff cone"
+        ],
+        "tipe_batu": "DaciteAndesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "5,682",
+            "Within 10 km": "5,682",
+            "Within 30 km": "5,810",
+            "Within 100 km": "5,810"
+        },
+        "ringkas": "The 3-km-wide island of Banda Api is the northern-most volcano in the Banda arc and has a long period of recorded observation because of its key location in the Portuguese and Dutch spice trade. The basaltic-to-rhyodacitic volcano is located in the SW corner of a mostly submerged 7 km caldera. At least two episodes of caldera formation are thought to have occurred, with the arcuate islands of Lonthor and Neira considered to be pre-caldera remnants. A conical peak rises to about 600 m at the center of the island. Eruptions have been recorded since 1586 CE, mostly consisting of Strombolian eruptions from the summit crater, but larger explosive eruptions have occurred and occasional lava flows have reached the coast."
+    },
+    {
+        "nama_vulkan": "Banua Wuhu",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sangihe Volcanic Arc",
+        "image_src": "https://volcano.si.edu/includes/images/noimage.jpg",
+        "nmr_vulkan": "267030",
+        "erupsi_terakhir": "1919 CE",
+        "elevasi": "-5 m / -16 ft",
+        "kordinat_lat": "3.138°N",
+        "kordinat_long": "125.491°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Complex",
+            "Lava dome",
+            "Submarine"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "359",
+            "Within 10 km": "480",
+            "Within 30 km": "4,586",
+            "Within 100 km": "69,756"
+        },
+        "ringkas": "The Banua Wuhu volcano in the Sangihe Islands rises more than 400 m from the ocean floor to form a shoal less than 5 m below sea level. Several ephemeral islands were constructed during the 19th and 20th centuries. An island 90 m high was formed in 1835, but had eroded to only a few rocks by 1848. A new island formed in 1889 was 50 m high in 1894. Five new craters were formed during an eruption that built a new island in 1904. Another new island that formed in 1919 had disappeared by 1935."
+    },
+    {
+        "nama_vulkan": "Batur",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01169.jpg",
+        "nmr_vulkan": "264010",
+        "erupsi_terakhir": "2000 CE",
+        "elevasi": "1,711 m / 5,614 ft",
+        "kordinat_lat": "8.2403°S",
+        "kordinat_long": "115.3775°E",
+        "lahan_vulkanis": "Caldera",
+        "tipe_vulkan": [
+            "Caldera",
+            "Stratovolcano",
+            "Pyroclastic cone(s)",
+            "Maar(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteDaciteTrachyandesite / Basaltic TrachyandesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "466,899",
+            "Within 10 km": "466,899",
+            "Within 30 km": "937,766",
+            "Within 100 km": "4,289,189"
+        },
+        "ringkas": "The historically active Batur is located at the center of two concentric calderas NW of Agung volcano. The outer 10 x 13.5 km caldera was formed during eruption of the Bali (or Ubud) Ignimbrite about 29,300 years ago and now contains a caldera lake on its SE side, opposite the Gunung Abang cone, the topographic high of the complex. The inner 6.4 x 9.4 km caldera was formed about 20,150 years ago during eruption of the Gunungkawi Ignimbrite. The SE wall of the inner caldera lies beneath Lake Batur; Batur cone has been constructed within the inner caldera to a height above the outer caldera rim. The Batur stratovolcano has produced vents over much of the inner caldera, but a NE-SW fissure system has localized the Batur I, II, and III craters along the summit ridge. Recorded eruptions have been characterized by mild-to-moderate explosive activity sometimes accompanied by lava emission. Basaltic lava flows from both summit and flank vents have reached the caldera floor and the shores of Lake Batur in historical time.This volcano is located within the Batur, a UNESCO Global Geopark property."
+    },
+    {
+        "nama_vulkan": "Bibinoi",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11701.jpg",
+        "nmr_vulkan": "268073",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "932 m / 3,058 ft",
+        "kordinat_lat": "0.761°S",
+        "kordinat_long": "127.725°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano(es)"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "53",
+            "Within 10 km": "4,276",
+            "Within 30 km": "15,604",
+            "Within 100 km": "83,771"
+        },
+        "ringkas": "Bukit Bibinoi (Bibinoi Hill) is the largest and SE-most of a group of three andesitic Holocene stratovolcanoes located along a NW-SE line near the SE tip of Bacan Island, west of the southern tip of Halmahera (Yasin, 1980). The smaller Songa and Lansa volcanoes straddle a narrow isthmus separating the SE-most peninsula of Bacan Island from the Sibela Mountains metamorphic complex. The group lies along the same trend as the Amasing volcano group, located to the NW on the other side of the Sibela Mountains."
+    },
+    {
+        "nama_vulkan": "Buyan-Bratan",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-08993.jpg",
+        "nmr_vulkan": "264001",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "2,244 m / 7,362 ft",
+        "kordinat_lat": "8.283°S",
+        "kordinat_long": "115.133°E",
+        "lahan_vulkanis": "Cluster",
+        "tipe_vulkan": [
+            "Caldera",
+            "Stratovolcano(es)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "333,333",
+            "Within 10 km": "333,333",
+            "Within 30 km": "935,879",
+            "Within 100 km": "4,355,947"
+        },
+        "ringkas": "The most obvious feature of the Buyan-Bratan volcanic complex in north-central Bali is the 11 x 6 km wide Bratan caldera (also known as Catur or Tjatur caldera), which contains three caldera lakes. Several post-caldera stratovolcanoes straddle its southern rim; the largest post-caldera cone, Batukau (Batukaru), is 10 km SW. The cones are well-formed, but covered with thick soils and vegetation; they are thought to have been inactive for hundreds or thousands of years (Wheller, 1986). The Tapak and Lesong cones are not covered by deposits of the youngest dacitic pumice eruptions of nearby Batur volcano, and are thus thought to be less than 23,000 years old. The geothermal field within the caldera has been developed to produce electrical power, and hot springs are located in more than a dozen locations."
+    },
+    {
+        "nama_vulkan": "Ciremai",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-12020.jpg",
+        "nmr_vulkan": "263170",
+        "erupsi_terakhir": "1951 CE",
+        "elevasi": "3,039 m / 9,970 ft",
+        "kordinat_lat": "6.895°S",
+        "kordinat_long": "108.408°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "915",
+            "Within 10 km": "67,377",
+            "Within 30 km": "3,058,015",
+            "Within 100 km": "25,718,820"
+        },
+        "ringkas": "The symmetrical Ciremai stratovolcano is located closer to the northern coast than other central Java volcanoes. A large crater, elongated in an E-W direction and formed by multiple vents, caps the summit of Gunung Ciremai, which was constructed on the northern rim of the 4.5 x 5 km Geger Halang caldera. A large landslide deposit to the north may be associated with the origin of the caldera, although collapse may rather be due to a voluminous explosive eruption (Newhall and Dzurisin, 1988). Eruptions have included explosive activity and lahars, primarily from the summit crater."
+    },
+    {
+        "nama_vulkan": "Colo",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sangihe Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-06498.jpg",
+        "nmr_vulkan": "266010",
+        "erupsi_terakhir": "1983 CE",
+        "elevasi": "404 m / 1,325 ft",
+        "kordinat_lat": "0.162°S",
+        "kordinat_long": "121.601°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Caldera"
+        ],
+        "tipe_batu": "Trachyandesite / Basaltic TrachyandesiteTrachyte / Trachydacite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "1,897",
+            "Within 10 km": "2,025",
+            "Within 30 km": "2,025",
+            "Within 100 km": "229,592"
+        },
+        "ringkas": "Colo volcano forms the isolated small island of Una Una in the middle of the Gulf of Tomini in northern Sulawesi. The broad, low volcano contains a 2-km-wide caldera with a small central cone. Three eruptions have been recorded since the late 1800's, but two of those caused widespread damage over the island. The last eruption, in 1983, produced pyroclastic flows that swept over most of the island shortly after all residents had been evacuated."
+    },
+    {
+        "nama_vulkan": "Dempo",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01023.jpg",
+        "nmr_vulkan": "261230",
+        "erupsi_terakhir": "2025 CE",
+        "elevasi": "3,142 m / 10,308 ft",
+        "kordinat_lat": "4.016°S",
+        "kordinat_long": "103.121°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano(es)",
+            "Caldera"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "124",
+            "Within 10 km": "9,613",
+            "Within 30 km": "96,058",
+            "Within 100 km": "2,307,584"
+        },
+        "ringkas": "Dempo is a stratovolcano that rises above the Pasumah Plain of SE Sumatra. The andesitic complex has two main peaks, Gunung Dempo and Gunung Marapi, constructed near the SE rim of a 3-km-wide amphitheater open to the north. The high point of the older Gunung Dempo crater rim is slightly lower, and lies at the SE end of the summit complex. The taller Marapi cone was constructed within the older crater. Remnants of seven craters are found at or near the summit, with volcanism migrating WNW over time. The active 750 x 1,100 m active crater cuts the NW side of the Marapi cone and contains a 400-m-wide lake at the far NW end. Eruptions recorded since 1817 have been small-to-moderate explosions that produced local ashfall."
+    },
+    {
+        "nama_vulkan": "Dieng Volcanic Complex",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01074.jpg",
+        "nmr_vulkan": "263200",
+        "erupsi_terakhir": "2025 CE",
+        "elevasi": "2,565 m / 8,415 ft",
+        "kordinat_lat": "7.2°S",
+        "kordinat_long": "109.879°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Complex"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "1,092,929",
+            "Within 10 km": "1,092,929",
+            "Within 30 km": "1,886,942",
+            "Within 100 km": "24,381,814"
+        },
+        "ringkas": "The Dieng plateau in the highlands of central Java is renowned both for the variety of its volcanic scenery and as a sacred area housing Java's oldest Hindu temples, dating back to the 9th century CE. The Dieng Volcanic Complex consists of multiple stratovolcanoes and more than 20 small Pleistocene-to-Holocene craters and cones over a 6 x 14 km area. Prahu stratovolcano was truncated by a large Pleistocene caldera, which was subsequently filled by a series of cones, lava domes, and craters, many containing lakes. Lava flows cover much of the plateau, but observed activity has been restricted to minor phreatic eruptions. Gas emissions are a hazard at several craters and have caused fatalities. There are abundant thermal features and high heat flow across the area."
+    },
+    {
+        "nama_vulkan": "Dukono",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01741.jpg",
+        "nmr_vulkan": "268010",
+        "erupsi_terakhir": "2025 CE",
+        "elevasi": "1,273 m / 4,177 ft",
+        "kordinat_lat": "1.6992°N",
+        "kordinat_long": "127.8783°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Complex"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteTrachyte / TrachydaciteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "1,575",
+            "Within 10 km": "3,348",
+            "Within 30 km": "101,506",
+            "Within 100 km": "393,070"
+        },
+        "ringkas": "Reports from this remote volcano in northernmost Halmahera are rare, but Dukono has been one of Indonesia's most active volcanoes. More-or-less continuous explosive eruptions, sometimes accompanied by lava flows, have occurred since 1933. During a major eruption in 1550 CE, a lava flow filled in the strait between Halmahera and the N-flank Gunung Mamuya cone. This complex volcano presents a broad, low profile with multiple summit peaks and overlapping craters. Malupang Wariang, 1 km SW of the summit crater complex, contains a 700 x 570 m crater that has also been active during historical time."
+    },
+    {
+        "nama_vulkan": "Ebulobo",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01214.jpg",
+        "nmr_vulkan": "264100",
+        "erupsi_terakhir": "1969 CE",
+        "elevasi": "2,096 m / 6,877 ft",
+        "kordinat_lat": "8.817°S",
+        "kordinat_long": "121.191°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Lava dome"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Crustal thickness unknown"
+        ],
+        "populasi": {
+            "Within 5 km": "1,278",
+            "Within 10 km": "24,149",
+            "Within 30 km": "140,204",
+            "Within 100 km": "674,614"
+        },
+        "ringkas": "Ebulobo, also referred to as Amburombu or Keo Peak, is a steep-sided symmetrical stratovolcano in central Flores Island. The Watu Keli lava flow traveled down the N flank to 4 km from the summit in 1830, the first of only four recorded historical eruptions of the volcano."
+    },
+    {
+        "nama_vulkan": "Egon",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-12025.jpg",
+        "nmr_vulkan": "264160",
+        "erupsi_terakhir": "2008 CE",
+        "elevasi": "1,661 m / 5,449 ft",
+        "kordinat_lat": "8.676°S",
+        "kordinat_long": "122.455°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Lava dome"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Crustal thickness unknown"
+        ],
+        "populasi": {
+            "Within 5 km": "818",
+            "Within 10 km": "23,263",
+            "Within 30 km": "250,257",
+            "Within 100 km": "868,670"
+        },
+        "ringkas": "Gunung Egon, also known as Namang, sits within the narrow section of eastern Flores Island. The barren, sparsely vegetated summit region has a 350-m-wide, 200-m-deep crater that sometimes contains a lake. Other small crater lakes occur on the flanks. A lava dome forms the southern summit. Solfataric activity occurs on the crater wall and rim and on the upper S flank. Reports of eruptive activity prior to explosive eruptions beginning in 2004 are unconfirmed. Emissions were often observed above the summit during 1888-1892. Strong emissions in 1907 reported by Sapper (1917) was considered by the Catalog of Active Volcanoes of the World (Neumann van Padang, 1951) to be an historical eruption, but Kemmerling (1929) noted that this was likely confused with an eruption on the same date and time from Lewotobi Lakilaki."
+    },
+    {
+        "nama_vulkan": "Galunggung",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01061.jpg",
+        "nmr_vulkan": "263140",
+        "erupsi_terakhir": "1984 CE",
+        "elevasi": "2,168 m / 7,113 ft",
+        "kordinat_lat": "7.25°S",
+        "kordinat_long": "108.058°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Lava dome"
+        ],
+        "tipe_batu": "Basalt / Picro-BasaltAndesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "4,781",
+            "Within 10 km": "66,495",
+            "Within 30 km": "2,382,939",
+            "Within 100 km": "23,897,342"
+        },
+        "ringkas": "The forested slopes of Galunggung in western Java SE of Bandung are cut by a 2-km-wide collapse scarp open towards the ESE. The \"Ten Thousand Hills of Tasikmalaya\" dotting the plain below the volcano are debris-avalanche hummocks from the collapse about 4,200 years ago. An eruption in 1822 produced pyroclastic flows and lahars that killed over 4,000 people. A series of major explosive eruptions starting in April 1982 destroyed a number of villages, killed as many as 30 people, and forced over 60,000 to evacuate. Pyroclastic flows and heavy widespread ash caused significant damage. A large passenger jet that encountered the ash plume on 24 June lost power to all four engines but managed to land safely in Jakarta. The 1982 activity destroyed a 1918 dome and formed the Warirang crater, almost as wide as the valley, about 2 km down from the summit."
+    },
+    {
+        "nama_vulkan": "Gamalama",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-05821.jpg",
+        "nmr_vulkan": "268060",
+        "erupsi_terakhir": "2018 CE",
+        "elevasi": "1,714 m / 5,623 ft",
+        "kordinat_lat": "0.81°N",
+        "kordinat_long": "127.3322°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano(es)",
+            "Maar(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "103,429",
+            "Within 10 km": "204,820",
+            "Within 30 km": "308,691",
+            "Within 100 km": "536,972"
+        },
+        "ringkas": "Gamalama is a near-conical stratovolcano that comprises the entire island of Ternate off the western coast of Halmahera, and is one of Indonesia's most active volcanoes. The island was a major regional center in the Portuguese and Dutch spice trade for several centuries, which contributed to the extensive documentation of activity. Three cones, progressively younger to the north, form the summit. Several maars and vents define a rift zone, parallel to the Halmahera island arc, that cuts the volcano; the S-flank Ngade maar formed after about 14,500–13,000 cal. BP (Faral et al., 2022). Eruptions, recorded frequently since the 16th century, typically originated from the summit craters, although flank eruptions have occurred in 1763, 1770, 1775, and 1962-63."
+    },
+    {
+        "nama_vulkan": "Gamkonora",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01287.jpg",
+        "nmr_vulkan": "268040",
+        "erupsi_terakhir": "2007 CE",
+        "elevasi": "1,635 m / 5,364 ft",
+        "kordinat_lat": "1.38°N",
+        "kordinat_long": "127.53°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "3,354",
+            "Within 10 km": "12,744",
+            "Within 30 km": "61,376",
+            "Within 100 km": "627,128"
+        },
+        "ringkas": "The shifting of eruption centers on Gamkonora, the highest peak of Halmahera, has produced an elongated series of summit craters along a N-S trending rift. Youthful-looking lava flows originate near the cones of Gunung Alon and Popolojo, south of Gamkonora. Since its first recorded eruption in the 16th century, typical activity has been small-to-moderate explosive eruptions. Its largest recorded eruption, in 1673, was accompanied by tsunamis that inundated villages."
+    },
+    {
+        "nama_vulkan": "Gede-Pangrango",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-12032.jpg",
+        "nmr_vulkan": "263060",
+        "erupsi_terakhir": "1957 CE",
+        "elevasi": "3,026 m / 9,928 ft",
+        "kordinat_lat": "6.786°S",
+        "kordinat_long": "106.983°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano(es)",
+            "Caldera(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "2,500",
+            "Within 10 km": "154,390",
+            "Within 30 km": "2,315,469",
+            "Within 100 km": "40,640,105"
+        },
+        "ringkas": "The two peaks of the Gede-Pangrango volcanic complex overlook the major cities of Cianjur, Sukabumi, and Bogor, situated to the E, S, and NW, respectively. The summit of Gunung Pangrango, constructed over the NE rim of a 3 x 5 km caldera, forms the high point. Many lava flows are visible on the flanks of the younger Gunung Gede to the SE of Pangrango. The steep-walled summit crater has migrated about 1 km NNW over time. Two large debris-avalanche deposits are present on its flanks, one of which underlies the city of Cianjur. Activity recorded since the 16th century has typically consisted of small short explosive eruptions.This volcano is located within the Cibodas, a UNESCO Biosphere Reserve  property."
+    },
+    {
+        "nama_vulkan": "Guntur",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01057.jpg",
+        "nmr_vulkan": "263130",
+        "erupsi_terakhir": "1847 CE",
+        "elevasi": "2,251 m / 7,385 ft",
+        "kordinat_lat": "7.143°S",
+        "kordinat_long": "107.841°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Complex",
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "4,652",
+            "Within 10 km": "218,012",
+            "Within 30 km": "3,412,038",
+            "Within 100 km": "24,486,191"
+        },
+        "ringkas": "Guntur is a complex of several overlapping stratovolcanoes about 10 km NW of the city of Garut in western Java. Young lava flows, the most recent of which was erupted in 1840, are visible on the flanks of the erosionally unmodified Gunung Guntur, which rises about 1550 m above the plain of Garut. It is one of a group of younger cones constructed to the SW of an older eroded group of volcanoes at the NE end of the complex. Guntur, whose name means \"thunder,\" is the only center with recorded activity, with eruptions since the late-17th century. Although it produced frequent explosive eruptions in the 19th century, it has not erupted since."
+    },
+    {
+        "nama_vulkan": "Hiri",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-10480.jpg",
+        "nmr_vulkan": "268052",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "630 m / 2,067 ft",
+        "kordinat_lat": "0.9°N",
+        "kordinat_long": "127.32°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Basalt / Picro-BasaltAndesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "5,650",
+            "Within 10 km": "11,454",
+            "Within 30 km": "295,487",
+            "Within 100 km": "550,526"
+        },
+        "ringkas": "Hiri, a small 3-km-wide forested island immediately north of the historically active Gamalama on Ternate Island, is the northernmost of a chain of volcanic islands off the western coast of Halmahera. Hiri has received less attention than Ternate, but Apandi and Sudana (1980) mapped it as Holocene in age."
+    },
+    {
+        "nama_vulkan": "Ibu",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-10060.jpg",
+        "nmr_vulkan": "268030",
+        "erupsi_terakhir": "2025 CE",
+        "elevasi": "1,325 m / 4,347 ft",
+        "kordinat_lat": "1.488°N",
+        "kordinat_long": "127.63°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Pyroclastic cone(s)",
+            "Maar(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "1,560",
+            "Within 10 km": "14,549",
+            "Within 30 km": "64,581",
+            "Within 100 km": "637,988"
+        },
+        "ringkas": "The truncated summit of Gunung Ibu stratovolcano along the NW coast of Halmahera Island has large nested summit craters. The inner crater, 1 km wide and 400 m deep, has contained several small crater lakes. The 1.2-km-wide outer crater is breached on the N, creating a steep-walled valley. A large cone grew ENE of the summit, and a smaller one to the WSW has fed a lava flow down the W flank. A group of maars is located below the N and W flanks. The first observed and recorded eruption was a small explosion from the summit crater in 1911. Eruptive activity began again in December 1998, producing a lava dome that eventually covered much of the floor of the inner summit crater along with ongoing explosive ash emissions."
+    },
+    {
+        "nama_vulkan": "Ijen",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-00781.jpg",
+        "nmr_vulkan": "263350",
+        "erupsi_terakhir": "1999 CE",
+        "elevasi": "2,769 m / 9,085 ft",
+        "kordinat_lat": "8.058°S",
+        "kordinat_long": "114.242°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano(es)",
+            "Caldera",
+            "Pyroclastic cone(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "1,098",
+            "Within 10 km": "5,504",
+            "Within 30 km": "664,199",
+            "Within 100 km": "6,846,855"
+        },
+        "ringkas": "The Ijen volcano complex at the eastern end of Java consists of a group of small stratovolcanoes constructed within the 20-km-wide Ijen (Kendeng) caldera. The north caldera wall forms a prominent arcuate ridge, but elsewhere the rim was buried by post-caldera volcanoes, including Gunung Merapi, which forms the high point of the complex. Immediately west of the Gunung Merapi stratovolcano is the historically active Kawah Ijen crater, which contains a nearly 1-km-wide, turquoise-colored, acid lake. Kawah Ijen is the site of a labor-intensive mining operation in which baskets of sulfur are hand-carried from the crater floor. Many other post-caldera cones and craters are located within the caldera or along its rim. The largest concentration of cones forms an E-W zone across the southern side of the caldera. Coffee plantations cover much of the caldera floor; nearby waterfalls and hot springs are tourist destinations.This volcano is located within the Beleambanga, a UNESCO Biosphere Reserve  property."
+    },
+    {
+        "nama_vulkan": "Iliboleng",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01231.jpg",
+        "nmr_vulkan": "264220",
+        "erupsi_terakhir": "1993 CE",
+        "elevasi": "1,659 m / 5,443 ft",
+        "kordinat_lat": "8.342°S",
+        "kordinat_long": "123.258°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Basalt / Picro-BasaltAndesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Crustal thickness unknown"
+        ],
+        "populasi": {
+            "Within 5 km": "30,359",
+            "Within 10 km": "87,503",
+            "Within 30 km": "260,688",
+            "Within 100 km": "757,701"
+        },
+        "ringkas": "Iliboleng stratovolcano was constructed at the SE end of Adonara Island across a narrow strait from Lomblen Island. The volcano is capped by multiple, partially overlapping summit craters. Lava flows modify its profile, and a cone low on the SE flank, Balile, has also produced lava flows. Historical eruptions, first recorded in 1885, have consisted of moderate explosive activity, with lava flows accompanying only the 1888 eruption."
+    },
+    {
+        "nama_vulkan": "Ililabalekan",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11078.jpg",
+        "nmr_vulkan": "264240",
+        "erupsi_terakhir": "Unknown - Unrest / Holocene",
+        "elevasi": "1,018 m / 3,340 ft",
+        "kordinat_lat": "8.55°S",
+        "kordinat_long": "123.38°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Basalt / Picro-BasaltAndesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Crustal thickness unknown"
+        ],
+        "populasi": {
+            "Within 5 km": "7,747",
+            "Within 10 km": "14,260",
+            "Within 30 km": "123,287",
+            "Within 100 km": "756,090"
+        },
+        "ringkas": "Ililabalekan volcano is situated on a prominent peninsula in SW Lembata (formerly Lomblen) Island.  A satellitic cone was constructed on the SE flank of the steep-sided volcano.  Four craters, one of which contains a lava dome and two small explosion pits, occur at the summit of Mount Labalekan.  No historical eruptions are known from the volcano, although fumaroles are found near its summit."
+    },
+    {
+        "nama_vulkan": "Iliwerung",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-10071.jpg",
+        "nmr_vulkan": "264250",
+        "erupsi_terakhir": "2021 CE",
+        "elevasi": "583 m / 1,913 ft",
+        "kordinat_lat": "8.532°S",
+        "kordinat_long": "123.573°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Complex"
+        ],
+        "tipe_batu": "Basalt / Picro-BasaltAndesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Crustal thickness unknown"
+        ],
+        "populasi": {
+            "Within 5 km": "968",
+            "Within 10 km": "4,318",
+            "Within 30 km": "79,569",
+            "Within 100 km": "665,081"
+        },
+        "ringkas": "Constructed on the southern rim of the Lerek caldera, Iliwerung forms a prominent south-facing peninsula on Lembata (formerly Lomblen) Island. Craters and lava domes have formed along N-S and NW-SE lines on the complex volcano; activity has been observed at vents from the summit to the submarine SE flank. The summit lava dome was formed during an eruption in 1870. In 1948 the Iligripe lava dome grew on the E flank at 120 m elevation. Beginning in 1973-74, when three ephemeral islands were formed, submarine eruptions began on the lower ESE flank at a vent named Hobal; several other eruptions have since taken place at this vent."
+    },
+    {
+        "nama_vulkan": "Inielika",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-10063.jpg",
+        "nmr_vulkan": "264090",
+        "erupsi_terakhir": "2001 CE",
+        "elevasi": "1,559 m / 5,115 ft",
+        "kordinat_lat": "8.73°S",
+        "kordinat_long": "120.98°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Complex"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Crustal thickness unknown"
+        ],
+        "populasi": {
+            "Within 5 km": "4,601",
+            "Within 10 km": "27,281",
+            "Within 30 km": "162,299",
+            "Within 100 km": "818,815"
+        },
+        "ringkas": "Inielika is a broad, low volcano in central Flores Island that was constructed within the Lobobutu caldera. The complex summit contains ten craters, some of which are lake filled, in a 5 km2area north of the city of Bajawa. The largest of these, Wolo Runu and Wolo Lega North, are 750 m wide. A phreatic explosion in 1905 formed a new crater, and was the volcano's only eruption during the 20th century. Another eruption took place about a century later, in 2001. A chain of Pleistocene cinder cones, the Bajawa cinder cone complex, extends southward to Inierie."
+    },
+    {
+        "nama_vulkan": "Inierie",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-10062.jpg",
+        "nmr_vulkan": "264080",
+        "erupsi_terakhir": "8050 BCE",
+        "elevasi": "2,245 m / 7,365 ft",
+        "kordinat_lat": "8.875°S",
+        "kordinat_long": "120.95°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Pyroclastic cone(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Crustal thickness unknown"
+        ],
+        "populasi": {
+            "Within 5 km": "1,073",
+            "Within 10 km": "7,501",
+            "Within 30 km": "101,938",
+            "Within 100 km": "809,293"
+        },
+        "ringkas": "The symmetrical Gunung Inierie stratovolcano in south-central Flores overlooks the Sawu Sea, and is the highest volcano on the island. A small steep-walled crater is oriented E-W immediately east of the summit, whose upper slopes are unvegetated. A somma wall lies west and NW of Inierie (also known as Rokka Peak). A NNW-SSE-trending chain of volcanoes is just to the NE, including Wolo Bobo; these are part of the Pleistocene Bajawa cinder cone complex. A column of \"smoke\" is sometimes visible from the crater, as occurred in June 1911. The age of the latest eruption is not known, although the volcano was mapped as Holocene, and an eruption of Wolo Bobo was radiocarbon dated at about 10,000 years ago (Nasution et al., 2000). Hot springs are located on the northern flank of the volcano, and additional geothermal areas are located to the E and NE."
+    },
+    {
+        "nama_vulkan": "Iya",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01222.jpg",
+        "nmr_vulkan": "264110",
+        "erupsi_terakhir": "1969 CE",
+        "elevasi": "618 m / 2,028 ft",
+        "kordinat_lat": "8.891°S",
+        "kordinat_long": "121.641°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Pyroclastic cone(s)"
+        ],
+        "tipe_batu": "Basalt / Picro-BasaltAndesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Crustal thickness unknown"
+        ],
+        "populasi": {
+            "Within 5 km": "10,837",
+            "Within 10 km": "46,835",
+            "Within 30 km": "62,974",
+            "Within 100 km": "535,387"
+        },
+        "ringkas": "Gunung Iya is the southernmost of a group of three volcanoes comprising a small peninsula south of the city of Ende on central Flores Island. The cones to the north, Rooja and Pui, appear to be slightly older and have not shown historical activity, although Pui has a youthful profile (a reported 1671 eruption of Pui was considered to have originated from Iya volcano).  Iya, whose truncated southern side drops steeply to the sea, has had numerous moderate explosive eruptions during historical time."
+    },
+    {
+        "nama_vulkan": "Iyang-Argapura",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01138.jpg",
+        "nmr_vulkan": "263330",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "3,088 m / 10,131 ft",
+        "kordinat_lat": "7.97°S",
+        "kordinat_long": "113.57°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Complex"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "372",
+            "Within 10 km": "11,959",
+            "Within 30 km": "1,601,344",
+            "Within 100 km": "10,538,031"
+        },
+        "ringkas": "The massive Iyang-Argapura volcanic complex dominates the landscape between Raung and Lamongan volcanoes in eastern Java. Several Holocene volcanic cones are present, and valleys up to 1,000 m deep dissect the heavily eroded basal Iyang volcano. No major eruptions have occurred within at least the last 500 years, although there was an unverified report of an eruption in 1597 CE. Fumaroles occur in some of the many explosion pits found in the summit crater complex."
+    },
+    {
+        "nama_vulkan": "Jailolo",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11745.jpg",
+        "nmr_vulkan": "268051",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "993 m / 3,258 ft",
+        "kordinat_lat": "1.08°N",
+        "kordinat_long": "127.439°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Caldera(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "7,459",
+            "Within 10 km": "21,868",
+            "Within 30 km": "79,855",
+            "Within 100 km": "633,186"
+        },
+        "ringkas": "The Jailolo volcanic complex forms a peninsula west of Jailolo Bay on the western coast of Halmahera Island. The stratovolcano at the center of the complex has youthful lava flows on its E flank. Small calderas are located to the W and SW. The westernmost caldera, Idamdehe, truncates an older twin volcano of Jailolo. Hot springs occur along the NW coast of the caldera. Kailupa cone forms a small volcanic island off the southern coast of the peninsula. Hot mudflows were reported shortly prior to 1883, but no eruptions are known during historical time."
+    },
+    {
+        "nama_vulkan": "Kaba",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-06320.jpg",
+        "nmr_vulkan": "261220",
+        "erupsi_terakhir": "2000 CE",
+        "elevasi": "1,940 m / 6,365 ft",
+        "kordinat_lat": "3.522°S",
+        "kordinat_long": "102.615°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Pyroclastic cone"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "278",
+            "Within 10 km": "15,352",
+            "Within 30 km": "333,750",
+            "Within 100 km": "2,608,259"
+        },
+        "ringkas": "Kaba, a twin volcano with Mount Hitam, has an elongated summit crater complex dominated by three large historically active craters trending ENE from the summit to the upper NE flank.  The SW-most crater of Gunung Kaba, named Hidup (or Lama), is the largest. Most historical eruptions have affected only the summit area. They mostly originated from the central summit craters, although the upper-NE flank crater Kawah Vogelsang also produced explosions during the 19th and 20th centuries."
+    },
+    {
+        "nama_vulkan": "Karang",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11426.jpg",
+        "nmr_vulkan": "263020",
+        "erupsi_terakhir": "Unknown - Evidence Uncertain",
+        "elevasi": "1,768 m / 5,801 ft",
+        "kordinat_lat": "6.268°S",
+        "kordinat_long": "106.05°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "1,006",
+            "Within 10 km": "73,942",
+            "Within 30 km": "1,753,655",
+            "Within 100 km": "23,398,992"
+        },
+        "ringkas": "Gunung Karang volcano in westernmost Java was constructed SE of the 15-km-wide Pleistocene Danau caldera.  Two craters, Kawah Welirang and Kawah Haji, display fumarolic activity and are found on the eastern flanks, which may be of Holocene age (Bronto 1995, pers. comm.). The forested andesitic and basaltic volcano is the highest of a group of stratovolcanoes in the Danau caldera area and lies across a low saddle from Pulosari volcano."
+    },
+    {
+        "nama_vulkan": "Karangetang",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sangihe Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-10137.jpg",
+        "nmr_vulkan": "267020",
+        "erupsi_terakhir": "2023 CE",
+        "elevasi": "1,797 m / 5,896 ft",
+        "kordinat_lat": "2.781°N",
+        "kordinat_long": "125.407°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "892",
+            "Within 10 km": "4,478",
+            "Within 30 km": "11,066",
+            "Within 100 km": "65,667"
+        },
+        "ringkas": "Karangetang (Api Siau) volcano lies at the northern end of the island of Siau, about 125 km NNE of the NE-most point of Sulawesi. The stratovolcano contains five summit craters along a N-S line. It is one of Indonesia's most active volcanoes, with more than 40 eruptions recorded since 1675 and many additional small eruptions that were not documented (Neumann van Padang, 1951). Twentieth-century eruptions have included frequent explosive activity sometimes accompanied by pyroclastic flows and lahars. Lava dome growth has occurred in the summit craters; collapse of lava flow fronts have produced pyroclastic flows."
+    },
+    {
+        "nama_vulkan": "Kawi-Butak",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-09265.jpg",
+        "nmr_vulkan": "263281",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "2,651 m / 8,698 ft",
+        "kordinat_lat": "7.92°S",
+        "kordinat_long": "112.45°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano(es)"
+        ],
+        "tipe_batu": "No Data (checked)",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "507",
+            "Within 10 km": "127,978",
+            "Within 30 km": "2,927,446",
+            "Within 100 km": "24,141,573"
+        },
+        "ringkas": "The broad Kawi-Butak volcanic massif lies immediately E of Kelut volcano and S of Arjuno-Welirang volcano.  Gunung Kawi was constructed to the NW of Gunung Butak.  No historical eruptions are known from either volcano, but both are primarily of Holocene age."
+    },
+    {
+        "nama_vulkan": "Kelimutu",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-00869.jpg",
+        "nmr_vulkan": "264140",
+        "erupsi_terakhir": "1968 CE",
+        "elevasi": "1,639 m / 5,377 ft",
+        "kordinat_lat": "8.77°S",
+        "kordinat_long": "121.82°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Complex"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Crustal thickness unknown"
+        ],
+        "populasi": {
+            "Within 5 km": "746",
+            "Within 10 km": "9,896",
+            "Within 30 km": "118,605",
+            "Within 100 km": "606,946"
+        },
+        "ringkas": "Kelimutu is a small, but well-known, Indonesian compound volcano in central Flores Island with three summit crater lakes of varying colors. The western lake, Tiwi Ata Mbupu (Lake of Old People) is commonly blue. Tiwu Nua Muri Kooh Tai (Lake of Young Men and Maidens) and Tiwu Ata Polo (Bewitched, or Enchanted Lake), which share a common crater wall, are commonly colored green and red, respectively, although lake colors periodically vary. Active upwelling, probably fed by subaqueous fumaroles, occurs at the two eastern lakes. The scenic lakes are a popular tourist destination and have been the source of minor phreatic eruptions in historical time. The summit is elongated 2 km in a WNW-ESE direction; the older cones of Kelido (3 km N) and Kelibara (2 km S)."
+    },
+    {
+        "nama_vulkan": "Kelud",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01733.jpg",
+        "nmr_vulkan": "263280",
+        "erupsi_terakhir": "2014 CE",
+        "elevasi": "1,730 m / 5,676 ft",
+        "kordinat_lat": "7.935°S",
+        "kordinat_long": "112.314°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Lava dome(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "279",
+            "Within 10 km": "50,901",
+            "Within 30 km": "2,087,876",
+            "Within 100 km": "24,999,627"
+        },
+        "ringkas": "The relatively inconspicuous Kelud stratovolcano contains a summit crater lake that has been the source of some of Indonesia's most deadly eruptions. A cluster of summit lava domes cut by numerous craters has given the summit a very irregular profile. Satellitic cones and lava domes are also located low on the E, W, and SSW flanks. Eruptive activity has in general migrated in a clockwise direction around the summit vent complex. More than 30 eruptions have been recorded since 1000 CE. The ejection of water from the crater lake during the typically short but violent eruptions has created pyroclastic flows and lahars that have caused widespread fatalities and destruction. After more than 5,000 people were killed during an eruption in 1919, an engineering project to drain the crater lake lowered the surface by more than 50 m. The 1951 eruption deepened the crater by 70 m, leaving 50 million cubic meters of water after the damaged drainage tunnels were repaired. Following more than 200 deaths in the 1966 eruption, a new deeper tunnel was constructed, and the lake's volume before the 1990 eruption was only about 1 million cubic meters."
+    },
+    {
+        "nama_vulkan": "Kendang",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11711.jpg",
+        "nmr_vulkan": "263110",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "2,594 m / 8,510 ft",
+        "kordinat_lat": "7.245°S",
+        "kordinat_long": "107.709°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Lava dome"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteRhyolite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "7,758",
+            "Within 10 km": "89,790",
+            "Within 30 km": "2,601,697",
+            "Within 100 km": "21,174,023"
+        },
+        "ringkas": "The Quaternary Gunung Kendang volcano (also spelled Kendeng) is located immediately north of Papandayan volcano. Kendang contains four fumarole fields, the most prominent of which is Kawah Manuk, located in a broad 2.75-km-wide crater-like depression. Thermal activity consists of fumaroles with sulfur sublimation, mud pots, and hot water pools with occasional mild water ejections. The Darajat geothermal field is located on the E flank and along the Kendang fault, which extends NE to the Kawah Kamojang geothermal field. The latest eruptions produced the very young Kiamis rhyolitic lava dome and obsidian lava flows. Gunung Kiamis was labeled as Recent on a map of Whittome and Salveson (1990) and is located 2 km NE of the Darajat geothermal field."
+    },
+    {
+        "nama_vulkan": "Kerinci",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-12030.jpg",
+        "nmr_vulkan": "261170",
+        "erupsi_terakhir": "2024 CE",
+        "elevasi": "3,800 m / 12,467 ft",
+        "kordinat_lat": "1.697°S",
+        "kordinat_long": "101.264°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "304",
+            "Within 10 km": "33,878",
+            "Within 30 km": "264,107",
+            "Within 100 km": "1,437,454"
+        },
+        "ringkas": "Gunung Kerinci in central Sumatra forms Indonesia's highest volcano and is one of the most active in Sumatra. It is capped by an unvegetated young summit cone that was constructed NE of an older crater remnant. There is a deep 600-m-wide summit crater often partially filled by a small crater lake that lies on the NE crater floor, opposite the SW-rim summit. The massive 13 x 25 km wide volcano towers 2400-3300 m above surrounding plains and is elongated in a N-S direction. Frequently active, Kerinci has been the source of numerous moderate explosive eruptions since its first recorded eruption in 1838.This volcano is located within the Tropical Rainforest Heritage of Sumatra, a UNESCO World Heritage property."
+    },
+    {
+        "nama_vulkan": "Kie Besi",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-06360.jpg",
+        "nmr_vulkan": "268070",
+        "erupsi_terakhir": "1988 CE",
+        "elevasi": "1,357 m / 4,452 ft",
+        "kordinat_lat": "0.32°N",
+        "kordinat_long": "127.4°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Pyroclastic cone(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "4,986",
+            "Within 10 km": "8,466",
+            "Within 30 km": "21,360",
+            "Within 100 km": "441,768"
+        },
+        "ringkas": "Kie Besi volcano, forming the 10-km-wide Makian island off the west coast of Halmahera, has been the source of infrequent, but strong eruptions that have devastated villages on the island. The large 1.5-km-wide summit crater, containing a small lake on the NE side, gives the peak a flat-topped profile. Two prominent valleys extend to the coast from the summit crater on the north and east sides. Four cones are found on the western flanks. Eruption have been recorded since about 1550; major eruptions in 1646, 1760-61, 1861-62, 1890, and 1988 caused extensive damage and many fatalities."
+    },
+    {
+        "nama_vulkan": "Kie Matubu",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01746.jpg",
+        "nmr_vulkan": "268061",
+        "erupsi_terakhir": "1210 CE",
+        "elevasi": "1,713 m / 5,620 ft",
+        "kordinat_lat": "0.6623°N",
+        "kordinat_long": "127.4029°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Caldera"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "37,379",
+            "Within 10 km": "74,120",
+            "Within 30 km": "320,483",
+            "Within 100 km": "530,066"
+        },
+        "ringkas": "The conical Kie Matubu volcano on the south end of Tidore Island is the highest peak of the North Maluku island chain west of Halmahera. Faral et al. (2022) identified deposits from two eruptions within the past 3,000 years."
+    },
+    {
+        "nama_vulkan": "Klabat",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sangihe Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11200.jpg",
+        "nmr_vulkan": "266120",
+        "erupsi_terakhir": "Unknown - Unrest / Holocene",
+        "elevasi": "1,968 m / 6,457 ft",
+        "kordinat_lat": "1.454°N",
+        "kordinat_long": "125.031°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "1,352",
+            "Within 10 km": "39,935",
+            "Within 30 km": "822,740",
+            "Within 100 km": "1,326,026"
+        },
+        "ringkas": "Klabat is an isolated symmetrical stratovolcano that rises to almost 2000 m near the eastern tip of the northern arm of Sulawesi Island. The volcano lies east of the city of Manado (also spelled Menado) and is the highest in Sulawesi. Klabat has a shallow lake in its 170 x 250 m summit crater. No verified historical eruptions are known, but fumarolic activity has occurred within historical time. A report of an eruption in 1683 was probably from Tangkoko, 19 km NE."
+    },
+    {
+        "nama_vulkan": "Krakatau",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-00568.jpg",
+        "nmr_vulkan": "262000",
+        "erupsi_terakhir": "2023 CE",
+        "elevasi": "285 m / 935 ft",
+        "kordinat_lat": "6.1009°S",
+        "kordinat_long": "105.4233°E",
+        "lahan_vulkanis": "Caldera",
+        "tipe_vulkan": [
+            "Caldera",
+            "Stratovolcano",
+            "Pyroclastic cone"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteDaciteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "7,177",
+            "Within 10 km": "7,177",
+            "Within 30 km": "8,027",
+            "Within 100 km": "6,326,159"
+        },
+        "ringkas": "The renowned Krakatau (frequently mis-named as Krakatoa) volcano lies in the Sunda Strait between Java and Sumatra. Collapse of an older edifice, perhaps in 416 or 535 CE, formed a 7-km-wide caldera. Remnants of that volcano are preserved in Verlaten and Lang Islands; subsequently the Rakata, Danan, and Perbuwatan cones were formed, coalescing to create the pre-1883 Krakatau Island. Caldera collapse during the catastrophic 1883 eruption destroyed Danan and Perbuwatan, and left only a remnant of Rakata. This eruption caused more than 36,000 fatalities, most as a result of tsunamis that swept the adjacent coastlines of Sumatra and Java. Pyroclastic surges traveled 40 km across the Sunda Strait and reached the Sumatra coast. After a quiescence of less than a half century, the post-collapse cone of Anak Krakatau (Child of Krakatau) was constructed within the 1883 caldera at a point between the former Danan and Perbuwatan cones. Anak Krakatau has been the site of frequent eruptions since 1927.This volcano is located within the Ujung Kulon National Park, a UNESCO World Heritage property."
+    },
+    {
+        "nama_vulkan": "Lamongan",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-00748.jpg",
+        "nmr_vulkan": "263320",
+        "erupsi_terakhir": "1898 CE",
+        "elevasi": "1,641 m / 5,384 ft",
+        "kordinat_lat": "7.981°S",
+        "kordinat_long": "113.341°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Maar(s)",
+            "Pyroclastic cone(s)"
+        ],
+        "tipe_batu": "Basalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "6,588",
+            "Within 10 km": "66,387",
+            "Within 30 km": "2,193,829",
+            "Within 100 km": "15,322,387"
+        },
+        "ringkas": "Lamongan, a small stratovolcano located between the massive Tengger and Iyang-Argapura volcanic complexes, is surrounded by numerous maars and cinder cones. The currently active cone has been constructed 650 m SW of Gunung Tarub, the volcano's high point. As many as 27 maars with diameters from 150 to 700 m, some containing crater lakes, surround the volcano, along with about 60 cinder cones and spatter cones. Lake-filled maars, including Ranu Pakis, Ranu Klakah, and Ranu Bedali, are located on the E and W flanks; dry maars are predominately located on the N flanks. None of the maars has erupted during historical time, although several of the youthful maars cut drainage channels from Gunung Tarub. The volcano was very active from the time of its first historical eruption in 1799 through the end of the 19th century, producing frequent explosive eruptions and lava flows from vents on the western side ranging from the summit to about 450 m elevation."
+    },
+    {
+        "nama_vulkan": "Lawu",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01114.jpg",
+        "nmr_vulkan": "263260",
+        "erupsi_terakhir": "1885 CE",
+        "elevasi": "3,265 m / 10,712 ft",
+        "kordinat_lat": "7.625°S",
+        "kordinat_long": "111.192°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Complex",
+            "Lava dome"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "2,171",
+            "Within 10 km": "68,175",
+            "Within 30 km": "2,344,575",
+            "Within 100 km": "24,931,156"
+        },
+        "ringkas": "The compound Lawu stratovolcano includes a deeply eroded volcano to the south adjacent to a younger Holocene edifice to the north (van Bemmelen, 1949b). The southern end of the broad 3-km-long summit of the younger Lawu volcano contains eroded crater rims and a lava dome that fed lava flows 3.5 km down the S flank. A fumarolic area is also located on the south flank at 2,550 m. A small cone with a crater is present on the lower SE flank of the older edifice. The only reported eruption took place in 1885, when rumblings and light ashfall were reported. A major eruption reported from Lawu in 1752 was from neighboring Kelut volcano."
+    },
+    {
+        "nama_vulkan": "Leroboleng",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-10064.jpg",
+        "nmr_vulkan": "264200",
+        "erupsi_terakhir": "2003 CE",
+        "elevasi": "1,095 m / 3,593 ft",
+        "kordinat_lat": "8.365°S",
+        "kordinat_long": "122.833°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Complex"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Crustal thickness unknown"
+        ],
+        "populasi": {
+            "Within 5 km": "9,164",
+            "Within 10 km": "26,794",
+            "Within 30 km": "358,627",
+            "Within 100 km": "896,194"
+        },
+        "ringkas": "Leroboleng volcano, also known as Lereboleng or Lewono, lies at the eastern end of a 4.5-km-long, WSW-ESE-trending chain of three volcanoes straddling a narrow peninsula in NE Flores Island.  The summit of Gunung Leroboleng contains 29 small fissure-controlled craters, two containing lakes.  A small lava dome occupies one of the craters.  Most of the craters originated along three N-S-trending fissures immediately east of the summit of the volcano.  The largest crater, 250-m-wide Ili Gelimun, is located SSE of the summit and fed lava flows from a lower south-flank vent.  Explosive eruptions were reported from Burak crater during the 19th century."
+    },
+    {
+        "nama_vulkan": "Lewotobi",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11759.jpg",
+        "nmr_vulkan": "264180",
+        "erupsi_terakhir": "2025 CE",
+        "elevasi": "1,703 m / 5,587 ft",
+        "kordinat_lat": "8.542°S",
+        "kordinat_long": "122.775°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano(es)",
+            "Lava dome(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Crustal thickness unknown"
+        ],
+        "populasi": {
+            "Within 5 km": "18,686",
+            "Within 10 km": "59,084",
+            "Within 30 km": "284,976",
+            "Within 100 km": "906,184"
+        },
+        "ringkas": "The Lewotobi edifice in eastern Flores Island is composed of the two adjacent Lewotobi Laki-laki and Lewotobi Perempuan stratovolcanoes (the \"husband and wife\"). Their summits are less than 2 km apart along a NW-SE line. The conical Laki-laki to the NW has been frequently active during the 19th and 20th centuries, while the taller and broader Perempuan has had observed eruptions in 1921 and 1935. Small lava domes have grown during the 20th century in both of the summit craters, which are open to the north. A prominent cone, Iliwokar, occurs on the E flank of Perampuan."
+    },
+    {
+        "nama_vulkan": "Lewotolok",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-08323.jpg",
+        "nmr_vulkan": "264230",
+        "erupsi_terakhir": "2025 CE",
+        "elevasi": "1,431 m / 4,695 ft",
+        "kordinat_lat": "8.274°S",
+        "kordinat_long": "123.508°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteTrachyandesite / Basaltic TrachyandesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Crustal thickness unknown"
+        ],
+        "populasi": {
+            "Within 5 km": "4,390",
+            "Within 10 km": "10,032",
+            "Within 30 km": "159,023",
+            "Within 100 km": "695,083"
+        },
+        "ringkas": "The Lewotolok (or Lewotolo) stratovolcano occupies the eastern end of an elongated peninsula extending north into the Flores Sea, connected to Lembata (formerly Lomblen) Island by a narrow isthmus. It is symmetrical when viewed from the north and east. A small cone with a 130-m-wide crater constructed at the SE side of a larger crater forms the volcano's high point. Many lava flows have reached the coastline. Eruptions recorded since 1660 have consisted of explosive activity from the summit crater."
+    },
+    {
+        "nama_vulkan": "Lokon-Empung",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sangihe Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-10070.jpg",
+        "nmr_vulkan": "266100",
+        "erupsi_terakhir": "2015 CE",
+        "elevasi": "1,580 m / 5,184 ft",
+        "kordinat_lat": "1.358°N",
+        "kordinat_long": "124.792°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano(es)"
+        ],
+        "tipe_batu": "Basalt / Picro-BasaltDaciteAndesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "12,183",
+            "Within 10 km": "75,684",
+            "Within 30 km": "942,160",
+            "Within 100 km": "1,583,346"
+        },
+        "ringkas": "The Lokong-Empung volcanic complex, rising above the plain of Tondano in North Sulawesi, includes four peaks and an active crater. Lokon, the highest peak, has a flat craterless top. The morphologically younger Empung cone 2 km NE has a 400-m-wide, 150-m-deep crater that erupted last in the 18th century. A ridge extending 3 km WNW from Lokon includes the Tatawiran and Tetempangan peaks. All eruptions since 1829 have originated from Tompaluan, a 150 x 250 m crater in the saddle between Lokon and Empung. These eruptions have primarily produced small-to-moderate ash plumes that sometimes damaged croplands and houses, but lava-dome growth and pyroclastic flows have also occurred."
+    },
+    {
+        "nama_vulkan": "Mahawu",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sangihe Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01270.jpg",
+        "nmr_vulkan": "266110",
+        "erupsi_terakhir": "1977 CE",
+        "elevasi": "1,299 m / 4,262 ft",
+        "kordinat_lat": "1.352°N",
+        "kordinat_long": "124.865°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Pyroclastic cone(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteDaciteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "18,618",
+            "Within 10 km": "111,852",
+            "Within 30 km": "878,193",
+            "Within 100 km": "1,503,109"
+        },
+        "ringkas": "The elongated Mahawu volcano immediately east of Lokon-Empung volcano is the northernmost of a series of young volcanoes along a SSW-NNE line near the margin of the Quaternary Tondano caldera. Mahawu is capped by a 180-m-wide, 140-m-deep crater that sometimes contains a small crater lake, and has two pyroclastic cones on its N flank. Historical activity has been restricted to occasional small explosive eruptions recorded since 1789. In 1994 fumaroles, mudpots, and small geysers were observed along the shores of a greenish-colored crater lake."
+    },
+    {
+        "nama_vulkan": "Malintang",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-12599.jpg",
+        "nmr_vulkan": "261121",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "1,983 m / 6,506 ft",
+        "kordinat_lat": "0.47°N",
+        "kordinat_long": "99.67°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Caldera"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "56",
+            "Within 10 km": "535",
+            "Within 30 km": "169,047",
+            "Within 100 km": "1,602,138"
+        },
+        "ringkas": "The forested Malintang stratovolcano has a caldera breached to the south and a 900 x 1,500 m lake against the back caldera wall. The flanks are relatively pristine and uneroded, and it most likely has had significant eruptions within the past few thousand years (Kieh, 2009 pers. comm.). The open caldera of the andesitic-to-dacitic volcano may be related to emplacement of a large debris avalanche."
+    },
+    {
+        "nama_vulkan": "Manuk",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Inner Banda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-12603.jpg",
+        "nmr_vulkan": "265080",
+        "erupsi_terakhir": "Unknown - Unrest / Holocene",
+        "elevasi": "257 m / 843 ft",
+        "kordinat_lat": "5.543°S",
+        "kordinat_long": "130.303°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "0",
+            "Within 10 km": "0",
+            "Within 30 km": "0",
+            "Within 100 km": "58"
+        },
+        "ringkas": "The small steep-sided island of Manuk is the easternmost volcano in the Banda volcanic arc. The truncated andesitic cone rises 3,000 m from the sea floor. No confirmed observed eruptions are known from this uninhabited island, although there was an uncertain report that a member of the 1874 Challenger Expedition saw \"smoke\" rising from the crater. Highly altered fumarolic areas are located within the crater and on its western rim, and were once the source of sulfur extraction by Chinese traders."
+    },
+    {
+        "nama_vulkan": "Marapi",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-12022.jpg",
+        "nmr_vulkan": "261140",
+        "erupsi_terakhir": "2025 CE",
+        "elevasi": "2,885 m / 9,465 ft",
+        "kordinat_lat": "0.38°S",
+        "kordinat_long": "100.474°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Complex"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteTrachyandesite / Basaltic TrachyandesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "706",
+            "Within 10 km": "57,453",
+            "Within 30 km": "818,039",
+            "Within 100 km": "4,059,773"
+        },
+        "ringkas": "Gunung Marapi, not to be confused with the better-known Merapi volcano on Java, is Sumatra's most active volcano. This massive complex stratovolcano rises 2,000 m above the Bukittinggi Plain in the Padang Highlands. A broad summit contains multiple partially overlapping summit craters constructed within the small 1.4-km-wide Bancah caldera. The summit craters are located along an ENE-WSW line, with volcanism migrating to the west. More than 50 eruptions, typically consisting of small-to-moderate explosive activity, have been recorded since the end of the 18th century; no lava flows outside the summit craters have been reported in historical time."
+    },
+    {
+        "nama_vulkan": "Mare",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11743.jpg",
+        "nmr_vulkan": "268062",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "308 m / 1,010 ft",
+        "kordinat_lat": "0.57°N",
+        "kordinat_long": "127.4°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "889",
+            "Within 10 km": "20,821",
+            "Within 30 km": "300,717",
+            "Within 100 km": "498,716"
+        },
+        "ringkas": "The small volcanic island of Mare, immediately south of Tidore, was mapped as Holocene in age by Apandi and Sudana (1980). The 2 x 3 km island, part of a chain of volcanic islands off the western coast of Halmahera Island, is elongated in a NE-SW direction. A large breached crater at the andesitic volcano is located off the SW tip of the island."
+    },
+    {
+        "nama_vulkan": "Merapi",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01722.jpg",
+        "nmr_vulkan": "263250",
+        "erupsi_terakhir": "2025 CE",
+        "elevasi": "2,910 m / 9,547 ft",
+        "kordinat_lat": "7.54°S",
+        "kordinat_long": "110.446°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Lava dome(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteTrachyandesite / Basaltic Trachyandesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "49,205",
+            "Within 10 km": "185,849",
+            "Within 30 km": "4,348,473",
+            "Within 100 km": "24,728,414"
+        },
+        "ringkas": "Merapi, one of Indonesia's most active volcanoes, lies in one of the world's most densely populated areas and dominates the landscape immediately north of the major city of Yogyakarta. It is the youngest and southernmost of a volcanic chain extending NNW to Ungaran volcano. Growth of Old Merapi during the Pleistocene ended with major edifice collapse perhaps about 2,000 years ago, leaving a large arcuate scarp cutting the eroded older Batulawang volcano. Subsequent growth of the steep-sided Young Merapi edifice, its upper part unvegetated due to frequent activity, began SW of the earlier collapse scarp. Pyroclastic flows and lahars accompanying growth and collapse of the steep-sided active summit lava dome have devastated cultivated lands on the western-to-southern flanks and caused many fatalities."
+    },
+    {
+        "nama_vulkan": "Merbabu",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01112.jpg",
+        "nmr_vulkan": "263240",
+        "erupsi_terakhir": "1797 CE",
+        "elevasi": "3,118 m / 10,230 ft",
+        "kordinat_lat": "7.454°S",
+        "kordinat_long": "110.44°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Basalt / Picro-BasaltTrachyandesite / Basaltic TrachyandesiteAndesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "19,996",
+            "Within 10 km": "249,747",
+            "Within 30 km": "3,019,783",
+            "Within 100 km": "25,096,234"
+        },
+        "ringkas": "Gunung Merbabu is a massive forested volcano north of Merapi in central Java. Three prominent radial valleys extend from the summit toward the NW, NNE, and ESE. The most recent magmatic eruptions originated from a NNW-SSE fissure system that cut across the summit and fed the large-volume Kopeng and Kajor lava flows on the N and S flanks, respectively. Moderate explosive eruptions occurred from the summit crater in 1560 and 1797 CE."
+    },
+    {
+        "nama_vulkan": "Moti",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11744.jpg",
+        "nmr_vulkan": "268063",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "927 m / 3,041 ft",
+        "kordinat_lat": "0.454°N",
+        "kordinat_long": "127.411°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "3,190",
+            "Within 10 km": "5,051",
+            "Within 30 km": "89,568",
+            "Within 100 km": "462,393"
+        },
+        "ringkas": "The 5-km-wide island of Moti, also known as Motir, is part of a chain of volcanic islands off the western coast of Halmahera. It is located north of Makian and south of Mare and Tidore islands, and is surrounded by coral reefs. The truncated, conical island contains a crater on its SSW side. Moti was mapped as Holocene by Apandi and Sudana (1980). A minor eruption was reported in 1774 or shortly before, but Gogarten (1918) indicated that this event was confused with the October 1773 eruption of nearby Gamalama, which could have dropped ash on Moti."
+    },
+    {
+        "nama_vulkan": "Nila",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Inner Banda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-06432.jpg",
+        "nmr_vulkan": "265060",
+        "erupsi_terakhir": "1968 CE",
+        "elevasi": "781 m / 2,562 ft",
+        "kordinat_lat": "6.73°S",
+        "kordinat_long": "129.5°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Caldera",
+            "Pyroclastic cone"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "200",
+            "Within 10 km": "200",
+            "Within 30 km": "200",
+            "Within 100 km": "1,382"
+        },
+        "ringkas": "The 5 x 6 km Nila Island in the Banda Sea is comprised of a low-rimmed caldera breached at sea level on the south and east, with a youthful forested cone. Phreatic eruptions from the dominantly andesitic volcano, also known as Laworkawra, have occurred from summit vents and flank fissures. A 1932 eruption from a fissure that extended from the summit to the SE coast produced heavy ashfall that forced abandonment of Rumadai village."
+    },
+    {
+        "nama_vulkan": "Paluweh",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-10057.jpg",
+        "nmr_vulkan": "264150",
+        "erupsi_terakhir": "2013 CE",
+        "elevasi": "875 m / 2,871 ft",
+        "kordinat_lat": "8.32°S",
+        "kordinat_long": "121.708°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Lava dome(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Crustal thickness unknown"
+        ],
+        "populasi": {
+            "Within 5 km": "446",
+            "Within 10 km": "446",
+            "Within 30 km": "5,284",
+            "Within 100 km": "548,803"
+        },
+        "ringkas": "Paluweh volcano, also known as Rokatenda, forms the 8-km-wide island of Palu'e north of the volcanic arc that cuts across Flores Island. The broad irregular summit region contains overlapping craters up to 900 m wide and several lava domes. Several flank vents occur along a NW-trending fissure. The largest historical eruption occurred in 1928, when strong explosive activity was accompanied by landslide-induced tsunamis and lava dome emplacement. Pyroclastic flows in August 2013 resulted in fatalities."
+    },
+    {
+        "nama_vulkan": "Papandayan",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01043.jpg",
+        "nmr_vulkan": "263100",
+        "erupsi_terakhir": "2002 CE",
+        "elevasi": "2,665 m / 8,743 ft",
+        "kordinat_lat": "7.32°S",
+        "kordinat_long": "107.73°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano(es)"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "6,835",
+            "Within 10 km": "163,468",
+            "Within 30 km": "1,637,971",
+            "Within 100 km": "19,312,972"
+        },
+        "ringkas": "Papandayan is a complex stratovolcano with four large summit craters, the youngest of which was breached to the NE by collapse during a brief eruption in 1772 and contains active fumarole fields. The broad 1.1-km-wide, flat-floored Alun-Alun crater truncates the summit of Papandayan, and Gunung Puntang to the north gives a twin-peaked appearance. Several episodes of collapse have created an irregular profile and produced debris avalanches that have impacted lowland areas. A sulfur-encrusted fumarole field occupies historically active Kawah Mas (\"Golden Crater\"). After its first historical eruption in 1772, in which collapse of the NE flank produced a catastrophic debris avalanche that destroyed 40 villages and killed nearly 3000 people, only small phreatic eruptions had occurred prior to an explosive eruption that began in November 2002."
+    },
+    {
+        "nama_vulkan": "Patah",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01716.jpg",
+        "nmr_vulkan": "261231",
+        "erupsi_terakhir": "Unknown - Unrest / Holocene",
+        "elevasi": "2,836 m / 9,304 ft",
+        "kordinat_lat": "4.257°S",
+        "kordinat_long": "103.306°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano?"
+        ],
+        "tipe_batu": "No Data (checked)",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "47",
+            "Within 10 km": "214",
+            "Within 30 km": "64,024",
+            "Within 100 km": "1,302,916"
+        },
+        "ringkas": "Patah is a heavily forested, dissected Quaternary volcano SE of Dempo volcano. The age of its latest eruptions is not known, although on 1 May 1989 a possible new 150-m-wide crater with active fumaroles was observed by a cargo aircraft pilot in a heavily forested area on the side of a small cone about 3 km SE of Gunung Patah. The exact date of its formation, and its geologic relationship to Patah are uncertain. A crater lake at the summit of another peak, Bukit Belirang (Sulfur Hill), is located 1.5 km S of the fumaroles."
+    },
+    {
+        "nama_vulkan": "Patuha",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-06377.jpg",
+        "nmr_vulkan": "263070",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "2,422 m / 7,946 ft",
+        "kordinat_lat": "7.162°S",
+        "kordinat_long": "107.4°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "12,576",
+            "Within 10 km": "76,063",
+            "Within 30 km": "1,516,827",
+            "Within 100 km": "23,632,738"
+        },
+        "ringkas": "The forested andesitic Gunung Patuha rises SW of the plain of Bandung in western Java. Patuha is the northern peak of a roughly 5-km-long N-S volcanic massif, and has a 300 m crater at the summit. A few hundred meters down the SE flank is a 400 x 500 m crater almost completely filled with a shallow greenish lake, Kawah Putih. Sulfur deposits are present around the shoreline and near active fumaroles on the crater walls. A large debris-avalanche deposit extends down the NE flank. The volcano was formed during the late Pleistocene, but no Holocene eruptions are known."
+    },
+    {
+        "nama_vulkan": "Penanggungan",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-06480.jpg",
+        "nmr_vulkan": "263291",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "1,631 m / 5,351 ft",
+        "kordinat_lat": "7.616°S",
+        "kordinat_long": "112.62°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Pyroclastic cone(s)",
+            "Lava dome(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteTrachyandesite / Basaltic TrachyandesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "19,435",
+            "Within 10 km": "416,275",
+            "Within 30 km": "4,605,710",
+            "Within 100 km": "25,773,159"
+        },
+        "ringkas": "Gunung Penanggungan, one of Java's most revered mountains, is a small stratovolcano immediately north of the Arjuno-Welirang massif. Numerous ruins of sanctuaries, monuments, and sacred bathing places dating from 977-1511 CE are found on the northern and western flanks. Lava flows from flank vents descend to all sides and pyroclastic-flow deposits form an apron around it. It was mapped as similar in age to Arjuno-Welirang and Semeru volcanoes by van Bemmelen (1937). Considered to be extinct for at least 1000 years, its last eruption may have occurred about 200 CE."
+    },
+    {
+        "nama_vulkan": "Perbakti-Gagak",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-04516.jpg",
+        "nmr_vulkan": "263040",
+        "erupsi_terakhir": "1939 CE",
+        "elevasi": "1,726 m / 5,663 ft",
+        "kordinat_lat": "6.75°S",
+        "kordinat_long": "106.675°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano(es)",
+            "Lava dome(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteRhyoliteDacite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "1,490",
+            "Within 10 km": "28,784",
+            "Within 30 km": "2,333,456",
+            "Within 100 km": "36,630,568"
+        },
+        "ringkas": "The Perbakti-Gagak volcanic complex, also known as Kiaraberes-Gagak, is a cluster of deeply eroded stratovolcanoes situated immediately SW of Salak volcano. The summit ridge of Gunung Perbakti is elongated in a NW-SE direction, and Gunung Endut volcano rises above a saddle to its SW. Gunung Gagak, to the NW, is capped by pumice and obsidian, with obsidian lava flows extending N and NE. Quaternary rhyolitic lava domes form a NNE-trending chain at the eastern side of the complex. Two 2-km-wide depressions on the northern and southern sides of Perbakti form the headwaters of the Kaluwung Herang and Pamatutan rivers, respectively. The complex is marked by vigorous geothermal activity. Fumaroles, mud pots, and hot springs are located on the S and SE flanks of Perbakti and at the Kiaraberes area, which includes the commercial geothermal field of Awibengkok. Mild phreatic eruptions took place during the Holocene into historical time from flank fumarolic fields."
+    },
+    {
+        "nama_vulkan": "Peuet Sague",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11980.jpg",
+        "nmr_vulkan": "261030",
+        "erupsi_terakhir": "2000 CE",
+        "elevasi": "2,785 m / 9,137 ft",
+        "kordinat_lat": "4.903°N",
+        "kordinat_long": "96.289°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Complex",
+            "Lava dome(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteDacite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "53",
+            "Within 10 km": "144",
+            "Within 30 km": "16,227",
+            "Within 100 km": "1,862,448"
+        },
+        "ringkas": "Peuet Sague is a large volcanic complex in NW Sumatra. The volcano, whose name means \"square,\" contains four summit peaks, with the youngest lava dome being located to the N or NW. This extremely isolated volcano lies several days journey on foot from the nearest village and is infrequently visited. The first recorded historical eruption took place from 1918-21, when explosive activity and pyroclastic flows accompanied summit lava-dome growth. The active crater is located NE of the Gunung Tutung lava dome and has typically produced small-to-moderate explosive eruptions."
+    },
+    {
+        "nama_vulkan": "Pulosari",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11427.jpg",
+        "nmr_vulkan": "263010",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "1,324 m / 4,344 ft",
+        "kordinat_lat": "6.343°S",
+        "kordinat_long": "105.978°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "5,739",
+            "Within 10 km": "42,356",
+            "Within 30 km": "739,785",
+            "Within 100 km": "20,059,788"
+        },
+        "ringkas": "The basaltic-to-andesitic Pulosari stratovolcano at the western end of Java lies south of the 15-km-wide Pleistocene Danau caldera. The summit contains a nearly 300-m-deep crater open to the ENE with active solfataras on its wall. It is SW across a low saddle from the higher Karang volcano, which was constructed on the SE rim of Danau caldera."
+    },
+    {
+        "nama_vulkan": "Rajabasa",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11082.jpg",
+        "nmr_vulkan": "261290",
+        "erupsi_terakhir": "Unknown - Unrest / Holocene",
+        "elevasi": "1,281 m / 4,203 ft",
+        "kordinat_lat": "5.78°S",
+        "kordinat_long": "105.625°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "3,534",
+            "Within 10 km": "144,855",
+            "Within 30 km": "557,060",
+            "Within 100 km": "7,750,607"
+        },
+        "ringkas": "Rajabasa is a prominent, isolated volcano along the Sunda Strait at the SE-most tip of Sumatra. The low conical volcano has a well-preserved 500 x 700 m summit crater with a swampy floor. The age of its most recent eruptions is not known, although fumarolic activity occurs on the foot and flanks. Increased activity was reported in April 1863 and May 1892."
+    },
+    {
+        "nama_vulkan": "Ranakah",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-06333.jpg",
+        "nmr_vulkan": "264071",
+        "erupsi_terakhir": "1991 CE",
+        "elevasi": "2,288 m / 7,507 ft",
+        "kordinat_lat": "8.637°S",
+        "kordinat_long": "120.5302°E",
+        "lahan_vulkanis": "Cluster",
+        "tipe_vulkan": [
+            "Lava dome(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteDacite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "1,283",
+            "Within 10 km": "63,314",
+            "Within 30 km": "291,790",
+            "Within 100 km": "860,496"
+        },
+        "ringkas": "The Anak Ranakah (Child of Ranakah) lava dome was formed in 1987 in an area without previous recorded eruptions at the base of the large older lava dome of Gunung Ranakah. An arcuate group of lava domes extending about 12 km west from Gunung Ranakah to Poco Mandosawa occurs on the outer N flanks of the poorly known Poco Leok caldera on western Flores Island."
+    },
+    {
+        "nama_vulkan": "Ranau",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11473.jpg",
+        "nmr_vulkan": "261251",
+        "erupsi_terakhir": "Unknown - Evidence Uncertain",
+        "elevasi": "1,854 m / 6,083 ft",
+        "kordinat_lat": "4.871°S",
+        "kordinat_long": "103.925°E",
+        "lahan_vulkanis": "Caldera",
+        "tipe_vulkan": [
+            "Caldera",
+            "Stratovolcano"
+        ],
+        "tipe_batu": "DaciteAndesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "12,275",
+            "Within 10 km": "12,275",
+            "Within 30 km": "21,279",
+            "Within 100 km": "939,197"
+        },
+        "ringkas": "Ranau is an 8 x 13 km Pleistocene caldera partially filled by the crescent-shaped Lake Ranau. The caldera lies along the Great Sumatran Fault that extends the length of Sumatra.  Incremental formation of the caldera culminated in the eruption of the voluminous Ranau Tuff about 0.55 million years ago. A morphologically young post-caldera stratovolcano, Gunung Semuning, was constructed within the SE side of the caldera to a height of more than 1,200 m above the lake surface. The volcano has not been mapped in sufficient detail to determine the age of its latest eruptions, although fish kills and sulfur smells in the late 19th and early 20th centuries may be related to volcanism."
+    },
+    {
+        "nama_vulkan": "Raung",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01143.jpg",
+        "nmr_vulkan": "263340",
+        "erupsi_terakhir": "2024 CE",
+        "elevasi": "3,260 m / 10,696 ft",
+        "kordinat_lat": "8.119°S",
+        "kordinat_long": "114.056°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Caldera",
+            "Pyroclastic cone"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "152",
+            "Within 10 km": "572",
+            "Within 30 km": "581,515",
+            "Within 100 km": "8,123,987"
+        },
+        "ringkas": "Raung, one of Java's most active volcanoes, is a massive stratovolcano in easternmost Java that was constructed SW of the rim of Ijen caldera. The unvegetated summit is truncated by a dramatic steep-walled, 2-km-wide caldera that has been the site of frequent historical eruptions. A prehistoric collapse of Gunung Gadung on the W flank produced a large debris avalanche that traveled 79 km, reaching nearly to the Indian Ocean. Raung contains several centers constructed along a NE-SW line, with Gunung Suket and Gunung Gadung stratovolcanoes being located to the NE and W, respectively."
+    },
+    {
+        "nama_vulkan": "Rinjani",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-12125.jpg",
+        "nmr_vulkan": "264030",
+        "erupsi_terakhir": "2016 CE",
+        "elevasi": "3,726 m / 12,224 ft",
+        "kordinat_lat": "8.42°S",
+        "kordinat_long": "116.47°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Caldera",
+            "Pyroclastic cone"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-BasaltTrachybasalt / Tephrite BasaniteDacite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "10,289",
+            "Within 10 km": "55,594",
+            "Within 30 km": "1,374,441",
+            "Within 100 km": "3,555,330"
+        },
+        "ringkas": "Rinjani volcano on the island of Lombok rises to 3726 m, second in height among Indonesian volcanoes only to Sumatra's Kerinci volcano. Rinjani has a steep-sided conical profile when viewed from the east, but the west side of  the compound volcano is truncated by the 6 x 8.5 km, oval-shaped Segara Anak (Samalas) caldera. The caldera formed during one of the largest Holocene eruptions globally in 1257 CE, which truncated Samalas stratovolcano. The western half of the caldera contains a 230-m-deep lake whose crescentic form results from growth of the post-caldera cone Barujari at the east end of the caldera. Historical eruptions dating back to 1847 have been restricted to Barujari cone and consist of moderate explosive activity and occasional lava flows that have entered Segara Anak lake."
+    },
+    {
+        "nama_vulkan": "Ruang",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sangihe Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01275.jpg",
+        "nmr_vulkan": "267010",
+        "erupsi_terakhir": "2024 CE",
+        "elevasi": "725 m / 2,379 ft",
+        "kordinat_lat": "2.3°N",
+        "kordinat_long": "125.37°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Lava dome"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "878",
+            "Within 10 km": "1,652",
+            "Within 30 km": "2,766",
+            "Within 100 km": "149,159"
+        },
+        "ringkas": "Ruang volcano is the southernmost volcano in the Sangihe Island arc, north of Sulawesi Island; it is not the better known Raung volcano on Java. The 4 x 5 km island volcano is across a narrow strait SW of the larger Tagulandang Island. The summit contains a crater partially filled by a lava dome initially emplaced in 1904. Explosive eruptions recorded since 1808 have often been accompanied by lava dome formation and pyroclastic flows that have damaged inhabited areas."
+    },
+    {
+        "nama_vulkan": "Salak",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-12031.jpg",
+        "nmr_vulkan": "263050",
+        "erupsi_terakhir": "1938 CE",
+        "elevasi": "2,218 m / 7,277 ft",
+        "kordinat_lat": "6.716°S",
+        "kordinat_long": "106.733°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Lava dome(s)",
+            "Pyroclastic cone(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "1,367",
+            "Within 10 km": "80,578",
+            "Within 30 km": "2,675,904",
+            "Within 100 km": "38,154,252"
+        },
+        "ringkas": "The forested Salak volcano was constructed at the NE end of an eroded volcanic range. Satellitic cones occur on the SW flank and at the northern foot, and two large breached craters truncate the summit. One crater is breached to the NE and the westernmost crater was the source of a debris-avalanche deposit that extends 10 km WNW of the summit. Phreatic explosions have been recorded from a solfataric area at 1,400 m on the western flank. Salak volcano has been the site of extensive geothermal exploration."
+    },
+    {
+        "nama_vulkan": "Sangeang Api",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-00803.jpg",
+        "nmr_vulkan": "264050",
+        "erupsi_terakhir": "2022 CE",
+        "elevasi": "1,912 m / 6,273 ft",
+        "kordinat_lat": "8.2°S",
+        "kordinat_long": "119.07°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Complex",
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Trachybasalt / Tephrite BasaniteTrachyandesite / Basaltic TrachyandesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "204",
+            "Within 10 km": "1,155",
+            "Within 30 km": "39,301",
+            "Within 100 km": "809,132"
+        },
+        "ringkas": "Sangeang Api volcano, one of the most active in the Lesser Sunda Islands, forms a small 13-km-wide island off the NE coast of Sumbawa Island. Two large trachybasaltic-to-tranchyandesitic volcanic cones, Doro Api and Doro Mantoi, were constructed in the center and on the eastern rim, respectively, of an older, largely obscured caldera. Flank vents occur on the south side of Doro Mantoi and near the northern coast. Intermittent eruptions have been recorded since 1512, most of them during in the 20th century."
+    },
+    {
+        "nama_vulkan": "Wai Sano",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-06388.jpg",
+        "nmr_vulkan": "264060",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "1,319 m / 4,327 ft",
+        "kordinat_lat": "8.7345°S",
+        "kordinat_long": "120.0074°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Caldera"
+        ],
+        "tipe_batu": "Dacite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "127,347",
+            "Within 10 km": "127,347",
+            "Within 30 km": "242,184",
+            "Within 100 km": "831,863"
+        },
+        "ringkas": "The Wai Sano composite volcano at the western end of Flores Island includes a 2.5 x 3.5 km elliptical caldera in the NW part of a larger 9-10 km edifice. The caldera contains Sanonggoang Lake, with a surface more than 200 m below the high point on the southern caldera rim. The Poco Sesok and Poco Dedeng peaks are near the center of the eroded massif. The area has been a target of geothermal investigations, and two solfataras are located at the SE shore of the lake. No  eruptions have been reported or dated, but the area was mapped as Holocene (Ratman and Yasin, 1978)."
+    },
+    {
+        "nama_vulkan": "Semeru",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-00736.jpg",
+        "nmr_vulkan": "263300",
+        "erupsi_terakhir": "2025 CE",
+        "elevasi": "3,657 m / 11,998 ft",
+        "kordinat_lat": "8.108°S",
+        "kordinat_long": "112.922°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Pyroclastic cone(s)",
+            "Fissure vent(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "2,686",
+            "Within 10 km": "8,375",
+            "Within 30 km": "1,022,197",
+            "Within 100 km": "20,098,931"
+        },
+        "ringkas": "Semeru, the highest volcano on Java, and one of its most active, lies at the southern end of a volcanic massif extending north to the Tengger caldera. The steep-sided volcano, also referred to as Mahameru (Great Mountain), rises above coastal plains to the south.  Gunung Semeru was constructed south of the overlapping Ajek-ajek and Jambangan calderas. A line of lake-filled maars was constructed along a N-S trend cutting through the summit, and cinder cones and lava domes occupy the eastern and NE flanks. Summit topography is complicated by the shifting of craters from NW to SE. Frequent 19th and 20th century eruptions were dominated by small-to-moderate explosions from the summit crater, with occasional lava flows and larger explosive eruptions accompanied by pyroclastic flows that have reached the lower flanks of the volcano.This volcano is located within the Bromo Tengger Semeru-Arjuno, a UNESCO Biosphere Reserve  property."
+    },
+    {
+        "nama_vulkan": "Serua",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Inner Banda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11979.jpg",
+        "nmr_vulkan": "265070",
+        "erupsi_terakhir": "1921 CE",
+        "elevasi": "608 m / 1,995 ft",
+        "kordinat_lat": "6.312°S",
+        "kordinat_long": "130.017°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Lava dome"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "58",
+            "Within 10 km": "58",
+            "Within 30 km": "58",
+            "Within 100 km": "258"
+        },
+        "ringkas": "The 2 x 4 km island of Serua is the emergent summit of a volcano rising 3,600 m above the Banda Sea floor. A truncated central cone surrounded by an old crater wall is capped by the Gunung Wuarlapna lava dome. This andesitic volcano, also known as Legatala, lies near the center of the Banda arc and has had many eruptions recorded since the 17th century."
+    },
+    {
+        "nama_vulkan": "Sinabung",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-00530.jpg",
+        "nmr_vulkan": "261080",
+        "erupsi_terakhir": "2021 CE",
+        "elevasi": "2,460 m / 8,071 ft",
+        "kordinat_lat": "3.17°N",
+        "kordinat_long": "98.392°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteDacite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "997",
+            "Within 10 km": "13,801",
+            "Within 30 km": "163,630",
+            "Within 100 km": "7,646,863"
+        },
+        "ringkas": "Gunung Sinabung is a Pleistocene-to-Holocene stratovolcano with many lava flows on its flanks. The migration of summit vents along a N-S line gives the summit crater complex an elongated form. The youngest crater of  this conical andesitic-to-dacitic edifice is at the southern end of the four overlapping summit craters. The youngest deposit is a SE-flank pyroclastic flow14C dated by Hendrasto et al. (2012) at 740-880 CE. An unconfirmed eruption was noted in 1881, and solfataric activity was seen at the summit and upper flanks in 1912. No confirmed historical eruptions were recorded prior to explosive eruptions during August-September 2010 that produced ash plumes to 5 km above the summit."
+    },
+    {
+        "nama_vulkan": "Singkut",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-00522.jpg",
+        "nmr_vulkan": "261070",
+        "erupsi_terakhir": "1881 CE",
+        "elevasi": "2,181 m / 7,156 ft",
+        "kordinat_lat": "3.2379°N",
+        "kordinat_long": "98.5127°E",
+        "lahan_vulkanis": "Caldera",
+        "tipe_vulkan": [
+            "Caldera(s)",
+            "Stratovolcano(es)",
+            "Lava dome"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteDacite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "11,833",
+            "Within 10 km": "21,448",
+            "Within 30 km": "228,453",
+            "Within 100 km": "7,958,409"
+        },
+        "ringkas": "The Quaternary Singkut caldera is about 7 x 4 km with the S half of the rim topographically distinct. Post-caldera cones have filled much of the crater and the N rim, including Sibayak, Pintau, and Pratektekan. The 900-m-wide Sibayak crater is partially filled on the north by Pintau. A lava flow traveled through a gap in the western crater wall from the summit lava dome of Sibayak; the active geothermal field SE of the summit has abundant solfataras and fumaroles. Area residents record legends of eruptions. Neumann van Padang (1983) cited a report by Hoekstra of ash clouds emitted from the volcano in 1881. The town of Berastagi is within the caldera immediately SE of the younger cones."
+    },
+    {
+        "nama_vulkan": "Sirung",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01244.jpg",
+        "nmr_vulkan": "264270",
+        "erupsi_terakhir": "2021 CE",
+        "elevasi": "1,347 m / 4,419 ft",
+        "kordinat_lat": "8.4972°S",
+        "kordinat_long": "124.1306°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Complex",
+            "Caldera",
+            "Lava dome"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Crustal thickness unknown"
+        ],
+        "populasi": {
+            "Within 5 km": "5,966",
+            "Within 10 km": "19,334",
+            "Within 30 km": "69,744",
+            "Within 100 km": "418,756"
+        },
+        "ringkas": "Sirung volcano is located at the NE end of a 14-km-long line of volcanic centers that form a peninsula at the southern end of Pantar Island.  The volcano is truncated by a 2-km-wide caldera whose floor often contains one or more small lakes.  Much of the volcano is constructed of basaltic lava flows, and the Gunung Sirung lava dome forms the high point on the caldera's western rim.  A number of phreatic eruptions have occurred from vents within the caldera during the 20th century.  Forested Gunung Topaki, the high point of the volcanic chain, lies at the SW end and contains a symmetrical summit crater."
+    },
+    {
+        "nama_vulkan": "Slamet",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-06323.jpg",
+        "nmr_vulkan": "263180",
+        "erupsi_terakhir": "2014 CE",
+        "elevasi": "3,428 m / 11,247 ft",
+        "kordinat_lat": "7.242°S",
+        "kordinat_long": "109.208°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Pyroclastic cone(s)"
+        ],
+        "tipe_batu": "Basalt / Picro-BasaltAndesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "856",
+            "Within 10 km": "13,401",
+            "Within 30 km": "2,904,026",
+            "Within 100 km": "20,217,467"
+        },
+        "ringkas": "Slamet is one of Java's most active volcanoes. It has a cluster of about three dozen cinder cones on its lower SE-NE flanks and a single cinder cone on the W flank. It is composed of two overlapping edifices, an older basaltic-andesite to andesitic volcano on the west and a younger basaltic to basaltic-andesite one on the east. Gunung Malang II cinder cone on the upper E flank on the younger edifice fed a lava flow that extends 6 km E. Four craters occur at the summit of Gunung Slamet, with activity migrating to the SW over time. Eruptions recorded since the 18th century have originated from a 150-m-deep, 450-m-wide, steep-walled crater at the western part of the summit and have consisted of explosive eruptions generally lasting a few days to a few weeks."
+    },
+    {
+        "nama_vulkan": "Soputan",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sangihe Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-10069.jpg",
+        "nmr_vulkan": "266030",
+        "erupsi_terakhir": "2020 CE",
+        "elevasi": "1,785 m / 5,856 ft",
+        "kordinat_lat": "1.112°N",
+        "kordinat_long": "124.737°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Lava dome"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "4,724",
+            "Within 10 km": "69,991",
+            "Within 30 km": "501,336",
+            "Within 100 km": "1,696,768"
+        },
+        "ringkas": "The Soputan stratovolcano on the southern rim of the Quaternary Tondano caldera on the northern arm of Sulawesi Island is one of Sulawesi's most active volcanoes. The youthful, largely unvegetated volcano is the only active cone in the Sempu-Soputan volcanic complex, which includes the Soputan caldera, Rindengan, and Manimporok (3.5 km ESE). Kawah Masem maar was formed in the W part of the caldera and contains a crater lake; sulfur has been extracted from fumarolic areas in the maar since 1938. Recent eruptions have originated at both the summit crater and Aeseput, a prominent NE-flank vent that formed in 1906 and was the source of intermittent major lava flows until 1924."
+    },
+    {
+        "nama_vulkan": "Sorikmarapi",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-00544.jpg",
+        "nmr_vulkan": "261120",
+        "erupsi_terakhir": "1986 CE",
+        "elevasi": "2,145 m / 7,037 ft",
+        "kordinat_lat": "0.686°N",
+        "kordinat_long": "99.539°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteDacite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "203",
+            "Within 10 km": "1,469",
+            "Within 30 km": "90,257",
+            "Within 100 km": "1,831,957"
+        },
+        "ringkas": "Sorikmarapi is a forested stratovolcano with a 600-m-wide summit crater containing a lake and substantial sulfur deposits. A smaller upper SE flank crater (Danau Merah) also contains a crater lake; these two craters and a series of smaller explosion pits occur along a NW-SE line. Several solfatara fields are located on the E flank. Phreatic eruptions have occurred from summit and flank vents during the 19th and 20th centuries."
+    },
+    {
+        "nama_vulkan": "Sumbing",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-12040.jpg",
+        "nmr_vulkan": "261180",
+        "erupsi_terakhir": "1921 CE",
+        "elevasi": "2,507 m / 8,225 ft",
+        "kordinat_lat": "2.414°S",
+        "kordinat_long": "101.728°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteDacite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "3",
+            "Within 10 km": "304",
+            "Within 30 km": "49,583",
+            "Within 100 km": "1,209,448"
+        },
+        "ringkas": "Smaller than its prominent namesake on Java, Sumatra's Sumbing volcano has a complicated summit region containing several crater remnants and a 180-m-long crater lake. Its only reported eruptions, in 1909 and 1921, produced moderate explosions. Hot springs occur at the SW foot of the volcano."
+    },
+    {
+        "nama_vulkan": "Sumbing",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01082.jpg",
+        "nmr_vulkan": "263220",
+        "erupsi_terakhir": "1730 CE",
+        "elevasi": "3,371 m / 11,060 ft",
+        "kordinat_lat": "7.384°S",
+        "kordinat_long": "110.07°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Pyroclastic cone(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-BasaltDacite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "15,294",
+            "Within 10 km": "310,361",
+            "Within 30 km": "2,425,607",
+            "Within 100 km": "25,707,858"
+        },
+        "ringkas": "Gunung Sumbing is a stratovolcano that is the SE-most edifice of a chain of volcanoes in central Java that includes Sundoro and the Dieng Complex. Prominent cones are located on the N and SE flanks. An 800-m-wide summit crater is breached to the NE, but is partially filled by a lava dome that fed a flow down to 2,400 m elevation. Emplacement of the dome followed the eruption of extensive pyroclastic flows down the NE flank. Activity reported in about 1730 CE may have produced the small phreatic craters found at the summit."
+    },
+    {
+        "nama_vulkan": "Sundoro",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01077.jpg",
+        "nmr_vulkan": "263210",
+        "erupsi_terakhir": "1971 CE",
+        "elevasi": "3,147 m / 10,325 ft",
+        "kordinat_lat": "7.302°S",
+        "kordinat_long": "109.996°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Pyroclastic cone(s)",
+            "Lava dome"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "52,462",
+            "Within 10 km": "496,751",
+            "Within 30 km": "2,086,299",
+            "Within 100 km": "24,996,512"
+        },
+        "ringkas": "Gunung Sundoro, one Java's most symmetrical volcanoes, is between the Dieng complex to the NW and Sumbing volcano to the SE. The large Kembang cone is about 2.5 km from teh summit on the SW flank. A small lava dome occupies the summit crater, and numerous phreatic explosion vents are present in the summit area. Lava flows extend in all directions from the summit crater. Deposits of a large prehistoric debris avalanche are located below the NE flank. Pyroclastic-flow deposits dated at 1,720 years before present extend as far as 13 km from the summit. Historical eruptions typically have consisted of mild-to-moderate phreatic explosions, mostly from the summit crater. Flank vents were also active in 1882 and 1903."
+    },
+    {
+        "nama_vulkan": "Suoh",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-04513.jpg",
+        "nmr_vulkan": "261270",
+        "erupsi_terakhir": "2024 CE",
+        "elevasi": "1,000 m / 3,281 ft",
+        "kordinat_lat": "5.25°S",
+        "kordinat_long": "104.27°E",
+        "lahan_vulkanis": "Cluster",
+        "tipe_vulkan": [
+            "Caldera(s)",
+            "Maar(s)",
+            "Lava dome(s)"
+        ],
+        "tipe_batu": "No Data (checked)",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "837",
+            "Within 10 km": "2,048",
+            "Within 30 km": "24,619",
+            "Within 100 km": "1,616,500"
+        },
+        "ringkas": "The 8 x 16 km Suoh (or Suwoh) depression appears to have a dominantly tectonic origin, but contains a smaller complex of overlapping calderas oriented NNE-SSW. Historically active maars and silicic domes lie along the margins of the depression, which falls along the Great Sumatran Fault that extends the length of the island. Numerous hot springs occur along faults within the depression, which contains the Pematang Bata fumarole field. Large phreatic explosions (0.2 km2tephra) occurred at the time of a major tectonic earthquake in 1933. Very minor hydrothermal explosions produced two 5-m-wide craters at the time of a February 1994 earthquake."
+    },
+    {
+        "nama_vulkan": "Talagabodas",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-10068.jpg",
+        "nmr_vulkan": "263150",
+        "erupsi_terakhir": "Unknown - Unrest / Holocene",
+        "elevasi": "2,201 m / 7,221 ft",
+        "kordinat_lat": "7.208°S",
+        "kordinat_long": "108.07°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Lava dome"
+        ],
+        "tipe_batu": "Basalt / Picro-BasaltAndesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "7,953",
+            "Within 10 km": "68,266",
+            "Within 30 km": "2,388,005",
+            "Within 100 km": "24,525,517"
+        },
+        "ringkas": "The Gunung Talagabodas stratovolcano lies immediately north of the more well-known Galunggung volcano. Talagabodas, also spelled Telaga Bodas, is one of the older Quaternary volcanoes in an arcuate N-S trending volcano group east of the city of Garut and is built up of andesitic lavas and pyroclastics. Younger pyroclastics from Gunung Putri-Eweranda overlap the Talagabodas products in the north. The crater of Talagabodas has shifted 1.3 km north from the summit crater of Canar and contains a large sulfur-saturated lake.  Fumaroles, mud pots, and a warm spring are found around the lake, which has an elevated temperature. The age of the most recent eruption is not known. Changes in lake color occurred in 1913 and 1921, and expanded solfataric activity was reported in 1927. Suffocating gases have frequently killed animals that have wandered into the Pajagalan valley on the NE flank and the Kawah Saat geothermal area south of the crater lake. The Kawah Karaha fumaroles 9 km N are also part of the geothermal system (Tripp et al., 2002)."
+    },
+    {
+        "nama_vulkan": "Talakmau",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-04511.jpg",
+        "nmr_vulkan": "261130",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "2,919 m / 9,577 ft",
+        "kordinat_lat": "0.079°N",
+        "kordinat_long": "99.98°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Complex"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteDacite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "75",
+            "Within 10 km": "3,261",
+            "Within 30 km": "352,639",
+            "Within 100 km": "2,728,121"
+        },
+        "ringkas": "Talakmau (also known as Talamau) is a massive compound volcano rising above the western coastal plain of Sumatra. The andesitic-dacitic volcano is constructed along a NE-SW line, rising to 2912 m, more than 700 m above its twin volcano Pasaman to the SW, which has its own adventive cone, Bukit Nilam, lying 3.4 km to the SW. Three craters along the same NE-SW trend occur at the summit of Talakmau; the NE-most and highest crater is filled by a lava dome. Reports of historical eruptions, including one with rumblings and \"smoke\" emission in 1937, are considered doubtful, but eruptive activity has occurred during the Holocene."
+    },
+    {
+        "nama_vulkan": "Talang",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01016.jpg",
+        "nmr_vulkan": "261160",
+        "erupsi_terakhir": "2007 CE",
+        "elevasi": "2,575 m / 8,448 ft",
+        "kordinat_lat": "0.979°S",
+        "kordinat_long": "100.681°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "1,593",
+            "Within 10 km": "18,512",
+            "Within 30 km": "214,975",
+            "Within 100 km": "3,283,153"
+        },
+        "ringkas": "Talang, which forms a twin volcano with the extinct Pasar Arbaa volcano, lies ESE of the major city of Padang and rises NW of Dibawah Lake.  Talang has two crater lakes on its flanks; the largest of these is 1 x 2 km wide Danau Talang. The summit exhibits fumarolic activity, but which lacks a crater.  Historical eruptions have mostly involved small-to-moderate explosive activity first documented in the 19th century that originated from a series of small craters in a valley on the upper NE flank."
+    },
+    {
+        "nama_vulkan": "Tambora",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11509.jpg",
+        "nmr_vulkan": "264040",
+        "erupsi_terakhir": "1967 CE",
+        "elevasi": "2,850 m / 9,350 ft",
+        "kordinat_lat": "8.25°S",
+        "kordinat_long": "118°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Caldera",
+            "Pyroclastic cone(s)"
+        ],
+        "tipe_batu": "Trachybasalt / Tephrite BasaniteTrachyandesite / Basaltic Trachyandesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "4,156",
+            "Within 10 km": "11,331",
+            "Within 30 km": "89,006",
+            "Within 100 km": "1,036,033"
+        },
+        "ringkas": "The massive Tambora stratovolcano forms the entire 60-km-wide Sanggar Peninsula on northern Sumbawa Island. The largely  trachybasaltic-to-trachyandesitic volcano grew to about 4,000 m elevation before forming a caldera more than 43,000 years ago. Late-Pleistocene lava flows largely filled the early caldera, after which activity changed to dominantly explosive eruptions during the early Holocene. Tambora was the source of history's largest explosive eruption, in April 1815. Pyroclastic flows reached the sea on all sides of the peninsula, and heavy tephra fall devastated croplands, causing an estimated 60,000 fatalities.  The eruption of an estimated more than 150 km3of tephra formed a 6-km-wide, 1250-m-deep caldera and produced global climatic effects.  Minor lava domes and flows have been extruded on the caldera floor at Tambora during the 19th and 20th centuries."
+    },
+    {
+        "nama_vulkan": "Tampomas",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-04522.jpg",
+        "nmr_vulkan": "263131",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "1,690 m / 5,545 ft",
+        "kordinat_lat": "6.7639°S",
+        "kordinat_long": "107.9612°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "47,404",
+            "Within 10 km": "194,503",
+            "Within 30 km": "2,301,649",
+            "Within 100 km": "24,709,382"
+        },
+        "ringkas": "Gunung Tampomas is an andesitic stratovolcano overlooking the northern coastal plain of western Java about halfway between Tangkubanparahu and Cereme volcanoes. Youthful-looking lava flows are found on its flanks."
+    },
+    {
+        "nama_vulkan": "Tandikat-Singgalang",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-00548.jpg",
+        "nmr_vulkan": "261150",
+        "erupsi_terakhir": "1924 CE",
+        "elevasi": "2,854 m / 9,364 ft",
+        "kordinat_lat": "0.39°S",
+        "kordinat_long": "100.331°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano(es)"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "130",
+            "Within 10 km": "38,799",
+            "Within 30 km": "604,282",
+            "Within 100 km": "4,022,932"
+        },
+        "ringkas": "Tandikat and its twin volcano to the NNE, Singgalang, lie across the Bukittinggi plain from Marapi volcano. Volcanic activity has migrated to the SSW from the higher Singgalang, and only Tandikat has had historical activity. The summit of Tandikat has a partially eroded 1.2-km-wide crater containing a large central cone capped by a 360-m-wide crater with a small crater lake. The only three reported historical eruptions, in the late 19th and early 20th centuries, produced only mild explosive activity."
+    },
+    {
+        "nama_vulkan": "Tangkoko-Duasudara",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sangihe Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01271.jpg",
+        "nmr_vulkan": "266130",
+        "erupsi_terakhir": "1880 CE",
+        "elevasi": "1,334 m / 4,377 ft",
+        "kordinat_lat": "1.518°N",
+        "kordinat_long": "125.185°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Lava dome"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-BasaltDacite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "445",
+            "Within 10 km": "57,792",
+            "Within 30 km": "135,761",
+            "Within 100 km": "1,227,998"
+        },
+        "ringkas": "The eastern peninsula at the far NE end of Sulawesi near the city of Bitung is occupied by a volcanic complex consisting of two major edifices within a nature reserve. To the north is Tangkoko (also known as Tongkoko), with a large caldera (~3 x 1.5 km) elongated towards the SE from the highest rim point; the rim at the opposite end is more than 400 m lower. Eruptions occurred from the summit crater in the 17th century and in 1801, when the caldera also reportedly contained a cone surrounded by a lake. About 1.5 km down the outer E flank is the Batuangus (or Batu Angus) lava dome, formed in 1801, along with an adjacent vent (Baru Batuangus) that has been the source of all subsequent eruptions. The higher twin-peaked Duasudara (also Dua Suadara) stratovolcano is about 4.5 km SW of the Tangkoko summit. A NE-facing open crater appears to have a hummocky debris flow that reaches the base of the Tangkoko edifice."
+    },
+    {
+        "nama_vulkan": "Tangkuban Parahu",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-00599.jpg",
+        "nmr_vulkan": "263090",
+        "erupsi_terakhir": "2019 CE",
+        "elevasi": "2,084 m / 6,837 ft",
+        "kordinat_lat": "6.77°S",
+        "kordinat_long": "107.6°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Caldera"
+        ],
+        "tipe_batu": "Andesite / Basaltic AndesiteBasalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "100,608",
+            "Within 10 km": "518,822",
+            "Within 30 km": "5,729,309",
+            "Within 100 km": "32,855,731"
+        },
+        "ringkas": "Gunung Tangkuban Parahu is a broad stratovolcano overlooking Indonesia's former capital city of Bandung. The volcano was constructed within the 6 x 8 km Pleistocene Sunda caldera, which formed about 190,000 years ago. The volcano's low profile is the subject of legends referring to the mountain of the \"upturned boat.\" The Sunda caldera rim forms a prominent ridge on the western side; elsewhere the rim is largely buried by deposits of the current volcano. The dominantly small phreatic eruptions recorded since the 19th century have originated from several nested craters within an elliptical 1 x 1.5 km summit depression."
+    },
+    {
+        "nama_vulkan": "Batu Tara",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-06345.jpg",
+        "nmr_vulkan": "264260",
+        "erupsi_terakhir": "2015 CE",
+        "elevasi": "633 m / 2,077 ft",
+        "kordinat_lat": "7.791°S",
+        "kordinat_long": "123.585°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Trachybasalt / Tephrite BasaniteTrachyandesite / Basaltic Trachyandesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "207",
+            "Within 10 km": "207",
+            "Within 30 km": "207",
+            "Within 100 km": "455,429"
+        },
+        "ringkas": "The small isolated island of Batu Tara in the Flores Sea about 50 km N of Lembata (fomerly Lomblen) Island contains a scarp on the eastern side similar to the Sciara del Fuoco of Italy's Stromboli volcano. Vegetation covers the flanks to within 50 m of the summit. Batu Tara lies north of the main volcanic arc and is noted for its potassic leucite-bearing basanitic and tephritic rocks. The first historical eruption, during 1847-52, produced explosions and a lava flow."
+    },
+    {
+        "nama_vulkan": "Tarakan",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11747.jpg",
+        "nmr_vulkan": "268001",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "317 m / 1,040 ft",
+        "kordinat_lat": "1.832°N",
+        "kordinat_long": "127.825°E",
+        "lahan_vulkanis": "Minor (Basaltic)",
+        "tipe_vulkan": [
+            "Pyroclastic cone(s)"
+        ],
+        "tipe_batu": "Basalt / Picro-Basalt",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "18,056",
+            "Within 10 km": "23,570",
+            "Within 30 km": "85,055",
+            "Within 100 km": "360,761"
+        },
+        "ringkas": "Two cinder cones between Galela Bay and Lake Galela on norther Halmahera, NE of Dukono volcano, were mapped by Supriatna (1980) as basaltic and Holocene. Tarakan Lamo and Tarakan Itji (large and small Tarakan) have well-formed summit craters 800 and 500 m in diameter, and 160 and 125 m deep, respectively."
+    },
+    {
+        "nama_vulkan": "Bur ni Telong",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-12019.jpg",
+        "nmr_vulkan": "261050",
+        "erupsi_terakhir": "1937 CE",
+        "elevasi": "2,617 m / 8,586 ft",
+        "kordinat_lat": "4.769°N",
+        "kordinat_long": "96.821°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano",
+            "Lava dome(s)"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "1,342",
+            "Within 10 km": "25,733",
+            "Within 30 km": "125,812",
+            "Within 100 km": "1,631,846"
+        },
+        "ringkas": "The conical Bur ni Telong volcano was constructed at the southern base of the massive Bur ni Geureudong volcanic complex, one of the largest in northern Sumatra.  The historically active volcano lies 4.5 km from the summit of Geureudong,and its summit crater has migrated to the ESE, leaving arcuate crater rims.  Lava flows are exposed on the southern flank.  Explosive eruptions were recorded during the 19th and 20th centuries."
+    },
+    {
+        "nama_vulkan": "Tengger Caldera",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01127.jpg",
+        "nmr_vulkan": "263310",
+        "erupsi_terakhir": "2023 CE",
+        "elevasi": "2,329 m / 7,641 ft",
+        "kordinat_lat": "7.942°S",
+        "kordinat_long": "112.95°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano(es)",
+            "Caldera(s)",
+            "Pyroclastic cone(s)",
+            "Lava dome(s)",
+            "Maar"
+        ],
+        "tipe_batu": "Trachyandesite / Basaltic TrachyandesiteBasalt / Picro-BasaltAndesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "27,826",
+            "Within 10 km": "69,451",
+            "Within 30 km": "1,420,878",
+            "Within 100 km": "22,628,278"
+        },
+        "ringkas": "The 16-km-wide Tengger caldera is located at the northern end of a volcanic massif extending from Semeru volcano. The massive volcanic complex dates back to about 820,000 years ago and consists of five overlapping stratovolcanoes, each truncated by a caldera. Lava domes, pyroclastic cones, and a maar occupy the flanks of the massif. The Ngadisari caldera at the NE end of the complex formed about 150,000 years ago and is now drained through the Sapikerep valley. The most recent of the calderas is the 9 x 10 km wide Sandsea caldera at the SW end of the complex, which formed incrementally during the late Pleistocene and early Holocene. An overlapping cluster of post-caldera cones was constructed on the floor of the Sandsea caldera within the past several thousand years. The youngest of these is Bromo, one of Java's most active and most frequently visited volcanoes.This volcano is located within the Bromo Tengger Semeru-Arjuno, a UNESCO Biosphere Reserve  property."
+    },
+    {
+        "nama_vulkan": "Teon",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Inner Banda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-06348.jpg",
+        "nmr_vulkan": "265050",
+        "erupsi_terakhir": "1904 CE",
+        "elevasi": "728 m / 2,388 ft",
+        "kordinat_lat": "6.976°S",
+        "kordinat_long": "129.144°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "19",
+            "Within 10 km": "102",
+            "Within 30 km": "102",
+            "Within 100 km": "2,045"
+        },
+        "ringkas": "Teon, an elongated andesitic island volcano in the southwestern Banda arc, is also known as Serawerna, the name of its active crater. Another smaller crater is located to the NNE of Serawerna. Explosive eruptions have been recorded since the 17th century; the largest produced pyroclastic flows and surges in 1660 CE that caused damage and fatalities."
+    },
+    {
+        "nama_vulkan": "Tigalalu",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11707.jpg",
+        "nmr_vulkan": "268071",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "422 m / 1,385 ft",
+        "kordinat_lat": "0.07°N",
+        "kordinat_long": "127.42°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "621",
+            "Within 10 km": "2,350",
+            "Within 30 km": "7,396",
+            "Within 100 km": "422,007"
+        },
+        "ringkas": "Gunung Tigalalu is located at the northern end of Kayoa Island, which straddles the equator and is the southernmost of a chain of small volcanic islands off the western coast of Halmahera Island. This N-S-trending volcanic ridge at the north end of the island is partially flanked by coral limestones. Although much less known than its historically active neighbor to the north, Makian, Tigalalu was mapped as Holocene in age by Apandi and Sudana (1980)."
+    },
+    {
+        "nama_vulkan": "Toba",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11491.jpg",
+        "nmr_vulkan": "261090",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "2,157 m / 7,077 ft",
+        "kordinat_lat": "2.6083°N",
+        "kordinat_long": "98.8417°E",
+        "lahan_vulkanis": "Caldera",
+        "tipe_vulkan": [
+            "Caldera",
+            "Stratovolcano",
+            "Lava dome(s)"
+        ],
+        "tipe_batu": "DaciteRhyoliteTrachyandesite / Basaltic TrachyandesiteAndesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "125,908",
+            "Within 10 km": "125,908",
+            "Within 30 km": "168,995",
+            "Within 100 km": "3,437,177"
+        },
+        "ringkas": "The 35 x 100 km Toba volcano, the Earth's largest Quaternary caldera, was formed during four major Pleistocene ignimbrite-producing eruptions beginning at 1.2 million years ago. The latest of these produced the Young Toba Tuff (YTT) about 74,000 years ago from vents at the NW and SE ends of present-day Lake Toba. The YTT represents the largest known Quaternary eruption, ejecting about 3,800 km3(dense rock equivalent) of ash that covered ~40 million km2to a depth greater than 5 mm, plus another 1,500 km3of pyroclastic density current (PDC) deposits (Costa et al., 2014). Resurgent doming formed the massive Samosir Island and Uluan Peninsula structural blocks after the YTT eruption. Additional post-YTT eruptions include emplacement of a series of lava domes, growth of the solfatarically active Pusukbukit volcano on the south margin of the caldera, and formation of Tandukbenua volcano at the NW-most rim of the caldera. Lack of vegetation suggests that Tandukbenua may be only a few hundred years old (Chesner and Rose, 1991)."
+    },
+    {
+        "nama_vulkan": "Tobaru",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-12604.jpg",
+        "nmr_vulkan": "268020",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "1,035 m / 3,396 ft",
+        "kordinat_lat": "1.63°N",
+        "kordinat_long": "127.67°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "215",
+            "Within 10 km": "5,963",
+            "Within 30 km": "64,388",
+            "Within 100 km": "532,821"
+        },
+        "ringkas": "Gunung Tobaru, also known as Gunung Lolodai, is located in northern Halmahera WSW of Dukono volcano and NNE of Ibu volcano. Supriatna (1980) mapped the little known andesitic volcano as Holocene in age."
+    },
+    {
+        "nama_vulkan": "Todoko-Ranu",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Halmahera Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-11746.jpg",
+        "nmr_vulkan": "268050",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "979 m / 3,212 ft",
+        "kordinat_lat": "1.2389°N",
+        "kordinat_long": "127.4556°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Caldera(s)",
+            "Stratovolcano(es)"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "366",
+            "Within 10 km": "10,748",
+            "Within 30 km": "56,900",
+            "Within 100 km": "631,999"
+        },
+        "ringkas": "Todoko-Ranu is a large volcanic complex south of Gamkonora in North Maluku, Halmahera, that includes two calderas. The 2 x 2.8 km nested Ranu calderas on the north contains a caldera lake in the smaller one. The lava-filled Todoko caldera is south of the Ranu calderas. The post-caldera Sahu cone, on the S flank of Todoko, is the high point of the complex. Gunung Onu, NW of Ranu caldera, lies at the northern end of the complex. No eruptions have been reported, but it was mapped as Holocene (Supriatna, 1980). Fumaroles are present at Ranu caldera and hot springs are found on Mt. Sahu. Youthful-looking lava flows reach the sea from several locations within the complex."
+    },
+    {
+        "nama_vulkan": "Wilis",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Sunda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-09356.jpg",
+        "nmr_vulkan": "263270",
+        "erupsi_terakhir": "Unknown - Evidence Credible",
+        "elevasi": "2,563 m / 8,409 ft",
+        "kordinat_lat": "7.808°S",
+        "kordinat_long": "111.758°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Continental crust (> 25 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "514",
+            "Within 10 km": "5,376",
+            "Within 30 km": "2,150,615",
+            "Within 100 km": "21,455,776"
+        },
+        "ringkas": "Gunung Wilis is a solitary volcanic massif surrounded by low-elevation plains on all but its southern side. It was formed during three episodes dating back to the mid Pleistocene. Following destruction of the 2nd edifice, the most recent cone grew during the Holocene. No confirmed historical eruptions are known, although there was a report of an eruption in 1641 CE, the same year as a major eruption of nearby Kelut. Fumaroles and mud pots occur near Lake Ngebel on the lower western flank."
+    },
+    {
+        "nama_vulkan": "Wurlali",
+        "negara": "Indonesia",
+        "wilayah_vulkanis": "Inner Banda Volcanic Arc",
+        "image_src": "https://volcano.si.edu/gallery/photos/GVP-01247.jpg",
+        "nmr_vulkan": "265040",
+        "erupsi_terakhir": "1892 CE",
+        "elevasi": "868 m / 2,848 ft",
+        "kordinat_lat": "7.125°S",
+        "kordinat_long": "128.675°E",
+        "lahan_vulkanis": "Composite",
+        "tipe_vulkan": [
+            "Stratovolcano"
+        ],
+        "tipe_batu": "Andesite / Basaltic Andesite",
+        "pengaturan_tektonik": [
+            "Subduction zone",
+            "Oceanic crust (< 15 km)"
+        ],
+        "populasi": {
+            "Within 5 km": "219",
+            "Within 10 km": "365",
+            "Within 30 km": "720",
+            "Within 100 km": "901"
+        },
+        "ringkas": "The andesitic Wurlali stratovolcano, also known as Damar, was constructed at the northern end of a 5-km-wide caldera on the eastern side of Damar Island in the Banda Sea. Fumarolic activity occurs in the twin summit craters and on the SE flanks, producing exploitable sulfur deposits. An explosive eruption was observed in 1892 CE."
+    }
+]

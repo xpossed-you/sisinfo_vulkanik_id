@@ -59,3 +59,29 @@ Download release dari hasil compile pembuat di link ini:
 ```bash
 https://github.com/xpossed-you/sisinfo_vulkanik_id/releases
 ```
+
+## Struktur Project
+~~~
+sisinfo_vulkanik_id/
+-->/lib
+----> about_page.dart
+----> dashboard.dart
+----> database_aplikasi.dart
+----> home_page.dart
+----> login.dart
+----> main.dart
+----> maps.dart
+~~~
+
+## Screenshots
+Tampilan Homepage
+![App Screenshot](https://raw.githubusercontent.com/xpossed-you/sisinfo_vulkanik_id/refs/heads/master/screenshot/Screenshot%202025-05-16%20185032.png?token=GHSAT0AAAAAADA3PEW2VYCTCAHCFIL7BUCE2BHDRZA)
+
+Tampilan Daftar Gunung Api
+![App Screenshot](https://raw.githubusercontent.com/xpossed-you/sisinfo_vulkanik_id/refs/heads/master/screenshot/Screenshot%202025-05-16%20184632.png?token=GHSAT0AAAAAADA3PEW3L2HLXVD75LFA7FOE2BHDSPQ)
+
+Tampilan Login
+![App Screenshot](https://raw.githubusercontent.com/xpossed-you/sisinfo_vulkanik_id/refs/heads/master/screenshot/Screenshot%202025-05-16%20184641.png?token=GHSAT0AAAAAADA3PEW32S4KH7VN6I3YOWRY2BHDTGQ)
+
+Tampilan Dashboard
+![App Screenshot](https://raw.githubusercontent.com/xpossed-you/sisinfo_vulkanik_id/refs/heads/master/screenshot/Screenshot%202025-05-16%20185059.png?token=GHSAT0AAAAAADA3PEW3OPYJ3YJHKN32HH3A2BHDTUQ)

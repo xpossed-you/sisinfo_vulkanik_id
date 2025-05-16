@@ -32,7 +32,7 @@ class AboutPage extends StatelessWidget {
                   ),
                   SizedBox(height: 10), // Add spacing between the logo and the text
                   Text(
-                    "made by taufik · nim: 236250061 · Informatika B",
+                    "made by tfk_061",
                     textAlign: TextAlign.center,
 
                     style: TextStyle(

@@ -138,7 +138,7 @@ Future<Map<String, dynamic>?> checkUser(Database db, String email, String passwo
   return null;
 }
 
-Future<Map<String, dynamic>?> getUserByUsername(Database db, String username) async { //ambil username dari user
+Future<Map<String, dynamic>?> getUserByUsername(Database db, String username) async { //ambil username dari database
   final result = await db.query(
     'pengguna',
     where: 'nama = ?',

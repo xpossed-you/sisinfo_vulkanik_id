@@ -107,7 +107,9 @@ class DashboardPage extends StatelessWidget {
         ),
       ),
       body: Center(
-        child: Text('Welcome, $username!', style: TextStyle(fontSize: 24)),
+        child: Text('Welcome, $username!', style: TextStyle(fontSize: 24),
+        ),
+
       ),
     );
   }

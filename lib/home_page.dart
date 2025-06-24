@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
-import 'main.dart'; // Import the main file if needed
+import 'volcano_page.dart';
 import 'about_page.dart';
+import 'register_page.dart';
+import 'login_page.dart';
 
 class HomePage extends StatelessWidget {
   @override
@@ -63,6 +65,47 @@ class HomePage extends StatelessWidget {
               child: Text("About"),
             ),
             SizedBox(height: 20),
+
+          SizedBox(height: 20),
+Row(
+  mainAxisAlignment: MainAxisAlignment.center,
+  children: [
+    ElevatedButton(
+      style: ElevatedButton.styleFrom(
+        backgroundColor: Color.fromARGB(255, 255, 136, 0), // Teal
+        foregroundColor: Colors.white,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(8),
+        ),
+      ),
+      onPressed: () {
+        Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => LoginPage()),
+                );
+      },
+      child: Text("Login"),
+    ),
+    SizedBox(width: 20),
+    ElevatedButton(
+      style: ElevatedButton.styleFrom(
+        backgroundColor: Color.fromARGB(255, 255, 136, 0), // Darker Teal
+        foregroundColor: Colors.white,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(8),
+        ),
+      ),
+      onPressed: () {
+        Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => RegisterPage()),
+                );
+      },
+      child: Text("Register"),
+    ),
+  ],
+),
+
           ],
         ),
       ),

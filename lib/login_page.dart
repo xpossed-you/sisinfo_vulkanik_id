@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
+import 'package:shared_preferences/shared_preferences.dart';
 import 'home_page.dart';
 
 class LoginPage extends StatefulWidget {
@@ -20,30 +21,48 @@ class _LoginPageState extends State<LoginPage> {
       isLoading = true;
     });
 
-    final response = await http.post(
-      Uri.parse('http://localhost/volcano_api/login.php'),
-      body: {
-        'email': emailController.text,
-        'password': passwordController.text,
-      },
-    );
+    try {
+      final response = await http.post(
+  Uri.parse('http://localhost/volcano_api/login.php'), // Use 10.0.2.2 on Android Emulator
+  body: {
+    'email': emailController.text,
+    'password': passwordController.text,
+  },
+);
 
-    if (response.statusCode == 200) {
-      final data = jsonDecode(response.body);
+      if (response.statusCode == 200) {
+        final data = jsonDecode(response.body);
 
-      if (data['success'] == true) {
-        Navigator.pushReplacement(
-          context,
-          MaterialPageRoute(builder: (context) => HomePage()),
-        );
+        if (data['success'] == true) {
+          final prefs = await SharedPreferences.getInstance();
+          await prefs.setBool('isLoggedIn', true);
+          await prefs.setString('email', emailController.text.trim());
+
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(
+                  content: Text('Login successfully!'),
+                  backgroundColor: Colors.green[600],
+                  duration: Duration(seconds: 2),
+                ),
+              );
+
+          Navigator.pushReplacement(
+            context,
+            MaterialPageRoute(builder: (context) => HomePage()),
+          );
+        } else {
+          setState(() {
+            errorMessage = data['message'] ?? 'Login failed.';
+          });
+        }
       } else {
         setState(() {
-          errorMessage = data['error'] ?? 'Login failed.';
+          errorMessage = 'Server error. Please try again.';
         });
       }
-    } else {
+    } catch (e) {
       setState(() {
-        errorMessage = 'Server error. Please try again.';
+        errorMessage = 'Something went wrong. Please check your network.';
       });
     }
 

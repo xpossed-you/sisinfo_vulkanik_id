@@ -4,6 +4,7 @@ class AboutPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Color(0xFF1E1E1E), // Charcoal Black
       appBar: AppBar(
         backgroundColor: Color(0xFFD72638), // Lava Red
         title: Text("About"),
@@ -73,14 +74,6 @@ class AboutPage extends StatelessWidget {
               ),
             ),
             SizedBox(height: 20),
-            Text(
-              "Features:",
-              style: TextStyle(
-                fontSize: 18,
-                fontWeight: FontWeight.bold,
-                color: Color(0xFF252525), // Charcoal Black
-              ),
-            ),
 
             Column(
               crossAxisAlignment: CrossAxisAlignment.start,

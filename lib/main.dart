@@ -1,10 +1,17 @@
 import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'home_page.dart';
 import 'login_page.dart';
-import 'register_page.dart';
 
-void main() {
-  runApp(VulcaNesiaApp());
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  final prefs = await SharedPreferences.getInstance();
+  final isLoggedIn = prefs.getBool('isLoggedIn') ?? false;
+
+  runApp(MaterialApp(
+    home: isLoggedIn ? HomePage() : LoginPage(),
+    debugShowCheckedModeBanner: false,
+  ));
 }
 
 class VulcaNesiaApp extends StatelessWidget {
